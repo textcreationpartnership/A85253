@@ -1,0 +1,2142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English Gusman; or The history of that unparallel'd thief James Hind. Wherein is related I. His education and manner of life; also a full relation of all the severall robberies, madd pranks, and handsom jests done by him. II. How at Hatfield he was enchanted by a witch for three years of space; and how she switch'd his horse with a white rod, and gave him a thing like a sun-dial, the point of which should direct him which way to take when persued. And III. His apprehension, examination at the councel of state, commitment to the gatehouse, and from thence to Newgate; his arraignment at the Old Baily; and the discourse betwext his father, his wife and himself in Newgate. With several cuts to illustrate the matter. / Written by G.F.</title>
+            <author>Fidge, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85253</idno>
+            <idno type="STC">Wing F852</idno>
+            <idno type="STC">Thomason E651_20</idno>
+            <idno type="STC">ESTC R205862</idno>
+            <idno type="EEBO-CITATION">99865106</idno>
+            <idno type="PROQUEST">99865106</idno>
+            <idno type="VID">117343</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117343)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E651[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English Gusman; or The history of that unparallel'd thief James Hind. Wherein is related I. His education and manner of life; also a full relation of all the severall robberies, madd pranks, and handsom jests done by him. II. How at Hatfield he was enchanted by a witch for three years of space; and how she switch'd his horse with a white rod, and gave him a thing like a sun-dial, the point of which should direct him which way to take when persued. And III. His apprehension, examination at the councel of state, commitment to the gatehouse, and from thence to Newgate; his arraignment at the Old Baily; and the discourse betwext his father, his wife and himself in Newgate. With several cuts to illustrate the matter. / Written by G.F.</title>
+                  <author>Fidge, George.</author>
+               </titleStmt>
+               <extent>[10], 46, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for George Latham Junior; and are to be sold at the Bishops-Head in Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. [7]: George Fidge.</note>
+                  <note>With a preliminary leaf of verse.</note>
+                  <note>With a final contents leaf.</note>
+                  <note>Annotation on Thomason copy: "Jan. 10th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hind, James, d. 1652.</term>
+               <term>Robbery --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="poem">
+            <pb facs="tcp:117343:1" rendition="simple:additions"/>
+            <head>Vpon the Engliſh Guſman.</head>
+            <l>THe <hi>Seene's</hi> quite alter'd, for we plainly ſee</l>
+            <l>Our <hi>Engliſh Guſman</hi> is the Man: 'Tis hee</l>
+            <l>Doth far excell the <hi>Spaniſh Guſman;</hi> who</l>
+            <l>Did many brave and handſom Robb'ries too,</l>
+            <l>Yet is far ſhort in that, as 'tis expreſt:</l>
+            <l>For HIND could neatly <hi>Rob,</hi> and neatly <hi>Jest.</hi>
+            </l>
+            <l>'Tis He; the <hi>Sadlers</hi> Son, the <hi>Butchers</hi> Boy,</l>
+            <l>His Father's grief, and once his Mothers Joy.</l>
+            <l>Who run from's <hi>Maſter,</hi> and to <hi>London</hi> came<g ref="char:punc">▪</g>
+            </l>
+            <l>To ſeek his <hi>Fortune,</hi> and to get a <hi>Name:</hi>
+            </l>
+            <l>Where he not long had been, but quickly made<g ref="char:punc">▪</g>
+            </l>
+            <l>Himſelf a Member of the <hi>Cutters</hi> Trade,</l>
+            <l>And grew therein ſo Excellent, that He</l>
+            <l>Soon commenc'd <hi>Maſter</hi> of that <hi>Companie:</hi>
+            </l>
+            <l>And this to's Honor is Recorded further,</l>
+            <l>The <hi>Poor</hi> he Robb'd not, nor committed <hi>Murther.</hi>
+            </l>
+            <l>Coaſting the <hi>Country</hi>'s, at the laſt a WITCH</l>
+            <l>
+               <hi>Enchanted</hi> him, and gave his Horſe a <hi>Switch;</hi>
+            </l>
+            <l>Which laſted but for <hi>three years</hi> time, and then</l>
+            <l>His <hi>Spell</hi> expir'd, and Hee's as other Men.</l>
+            <l>And to be ſhort, he now in <hi>Newgate</hi> lyes</l>
+            <l>In th'Hole a Pris'ner, till he's <hi>clear'd</hi> or <hi>dyes.</hi>
+            </l>
+            <l>Let this ſuffice thee, Reader, for thou'lt finde</l>
+            <l>The famous <hi>Guſman,</hi> is our <hi>Engliſh</hi> HINDE.</l>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:117343:2"/>
+            <p>
+               <figure/>
+            </p>
+            <l>Here now thou ſeeſt me as a <hi>Butchers</hi> Boy,</l>
+            <l>And ſporting with a <hi>Dog</hi> in Merriment<g ref="char:punc">▪</g>
+            </l>
+            <l>Hereafter thou wilt read the <hi>Tricks</hi> I play,</l>
+            <l>Which may afford Thee <hi>pleaſure</hi> and <hi>content.</hi>
+            </l>
+            <l>For there's no <hi>Robb'ry</hi> yet I ere did doe,</l>
+            <l>But doth contain at leaſt a <hi>Jeſt,</hi> or two.</l>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:117343:2" rendition="simple:additions"/>
+            <p>THE
+Engliſh Guſman;
+OR THE
+HISTORY
+Of that Unparallel'd Thief
+JAMES HIND. <hi>Wherein is Related</hi>
+I. His Education and manner of Life; alſo a full
+Relation of all the ſeverall Robberies, madd
+Pranks, and handſom Jeſts done by Him. II. How at HATFIELD he was Enchanted by a
+WITCH
+For three years ſpace; and how She <hi>Switch'd</hi> His Horſe
+with a white <hi>Rod,</hi> and gave him a thing like a Sun-dial, the
+Point of which ſhould direct him which way to take when
+perſued. AND
+III. His Apprehenſion, Examination at the Councel of State. Com<g ref="char:EOLhyphen"/>mitment
+to the <hi>Gatehouſe,</hi> and from thence to <hi>Newgate;</hi> His Arraign<g ref="char:EOLhyphen"/>ment
+at the <hi>Old Baily;</hi> And the diſcourſe betwixt his Father, his
+Wife and Himſelf in <hi>Newgate. With ſeveral Cuts to Illuſtrate the Matter.</hi>
+            </p>
+            <p>Written by <hi>G. F.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed by <hi>T. N.</hi> for <hi>George Latham</hi> Junior; and are
+to be ſold at the <hi>Biſhops-Head,</hi> in <hi>Paul</hi>'s Church-Yard, 1652.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117343:3"/>
+            <pb facs="tcp:117343:3"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is one thing to do,
+and another thing to
+do well; a man may
+do that by which he
+may be undone: but
+he that does that he needs not be a<g ref="char:EOLhyphen"/>ſhamed
+of, carries an inward ſecu<g ref="char:EOLhyphen"/>rity,
+that contemns outward vio<g ref="char:EOLhyphen"/>lence.
+The Devil when he has a
+Deſign upon ſome frail perſon,
+tickles him with the conceit of act<g ref="char:EOLhyphen"/>ing
+ſomthing that may draw a fame
+upon him; the greedineſs to pur<g ref="char:EOLhyphen"/>chaſe
+<pb facs="tcp:117343:4"/>
+which, makes him <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orget to
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> himſelf; whether it be
+good or evil; but he runs the ha<g ref="char:EOLhyphen"/>zard,
+and at the laſt is taken in it;
+for it is the property of the Devil
+to leave his friends when they ſtand
+in moſt need of him; from whom
+too many now a daies draw Ex<g ref="char:EOLhyphen"/>ample.</p>
+            <p>If he has done ſomething that
+makes him talkt of; he concludes
+ſtraight the world applauds him;
+when report ſpeaks to the contrary,
+and rather diſcovers and betrays
+him; but heel not ſtick at one ad<g ref="char:EOLhyphen"/>venture,
+ſince the firſt proved ſo for<g ref="char:EOLhyphen"/>tunate,
+but is reſolved to purſue
+further; till he come to that place,
+where we will leave <hi>James Hind</hi>
+the ſubject of our <hi>Treatiſe.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:117343:4"/>
+Thus hath the Itch of praiſe and
+vain conceit drawn nany from their
+honeſt callings, that might not on<g ref="char:EOLhyphen"/>ly
+have lived contentedly, but died
+peaceably, and ſo have lived that
+death might never have bin feared.</p>
+            <p>I ſhall not trouble you with a
+long Epiſtle, onely thus much I
+ſhall ſay, that this Thief of whom I
+treat, has been the grandeſt of this
+age, and unparalelled by former
+ages; nay, I may ſay not by future
+times, for reſolution undaunted, of
+wit, and conceit (for deſign) unex<g ref="char:EOLhyphen"/>ampled;
+ſo that what hatred the ef<g ref="char:EOLhyphen"/>fect
+of his Feates purchaſed, the
+quaintneſs of them pall<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ated; that
+we may wel conclude.</p>
+            <lg>
+               <l>Though <hi>Clavil</hi>'s fortune far more happy prov'd;</l>
+               <l>This lives, and yet may die, much more belov'd.</l>
+            </lg>
+            <closer>
+               <signed>George Fidge.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117343:5"/>
+            <head>An Advertiſement to the Reader.</head>
+            <salute>Reader,</salute>
+            <p>THOU wilt not finde this enſuing Hi<g ref="char:EOLhyphen"/>ſtory
+ſet out, and garniſh'd with a fine
+ſtile, and ſtudied phraſe; but (which is
+beſt of all) an ordinary Expreſſion, a
+natural Story, and a pure Jeſt; That ſo the
+meaneſt may underſtand what they read, and
+not be perplexed with difficult words: I
+doubt not but upon peruſal, Thou wilt find
+it pleaſant and witty; and that our <hi>Engliſh
+Guſman</hi> is as Famous in theſe Times, as ever
+the <hi>Spaniſh</hi> in his Time.</p>
+            <closer>In aſſurance whereof, I reſt,
+<signed>Thine G. F.</signed>
+            </closer>
+            <pb facs="tcp:117343:5"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117343:6"/>
+            <p>
+               <figure/>
+            </p>
+            <l>Here now thou ſeeſt me as a <hi>Butchers</hi> Boy,</l>
+            <l>And ſporting with a <hi>Dog</hi> in Merriment<g ref="char:punc">▪</g>
+            </l>
+            <l>Hereafter thou wilt read the <hi>Tricks</hi> I play,</l>
+            <l>Which may afford Thee <hi>pleaſure</hi> and <hi>content.</hi>
+            </l>
+            <l>For there's no <hi>Robb'ry</hi> yet I ere did doe,</l>
+            <l>But doth contain at leaſt a <hi>Jeſt,</hi> or two.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117343:6"/>
+            <head>THE
+Engliſh Guſman;
+OR THE
+HISTORY
+Of that Unparallel'd Thief
+JAMES HIND.</head>
+            <div type="prologue">
+               <head>The PROLOG<g ref="char:V">Ʋ</g>E</head>
+               <opener>
+                  <salute>READER,</salute>
+               </opener>
+               <p>I Shall not be tedious before I give you the chiefeſt things done in his
+Life; but firſt I ſhall deſire you to take notice what his <hi>Father</hi> was;
+how hee was <hi>bred up</hi> to Write and Read, though hee took no delight
+therein; next, how be was <hi>bound</hi> an <hi>Apprentize;</hi> which was but a
+ſlaviſh life to him; and how it was his <hi>fortune</hi> to meet with ſome <hi>Rob<g ref="char:EOLhyphen"/>bers,</hi>
+by whom he was tutored: and further how, after many Robberies, he was
+at laſt <hi>favoured</hi> by a WITCH, who gave him an Enchantment for a
+certain Time; which having obtained, he moſt ordinarily Robbed by
+himſelf; but the time expiring, and his Enchantment growing out of
+date; he lay as open to be taken, and to the Law as any other Thief,
+as here after will appear: And laſtly, the manner of his <hi>Apprehenſion,</hi> his
+<hi>Examination</hi> before the <hi>Councel of State, Commitment</hi> to the <hi>Gatehouſe,</hi> from
+thence to <hi>Newgate:</hi> and the Diſcourſ that paſt in <hi>Newgate</hi> between his Fa<g ref="char:EOLhyphen"/>ther,
+Wife, and Himſelf: Alſo his <hi>Arraignment, Tryal,</hi> &amp;c. But this by
+the way; Now to the <hi>Hiſtory</hi> it ſelf.</p>
+               <p>FOR his beginning it was derived from the Loynes of a
+<hi>Sadler,</hi> who lived in <hi>Chippingnorton,</hi> where his abode
+was for many yeers, in good Reputation and Credit,
+and having but one onely Son, did reſolve (ſo far as he was
+able) to beſtow on him a Portion of <hi>Learning;</hi> and there<g ref="char:EOLhyphen"/>upon
+<pb facs="tcp:117343:7"/>
+ſet him to <hi>School</hi> to read <hi>Engliſh,</hi> and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <hi>Write,</hi> where
+he was for the ſpace of <hi>Two</hi> years and pro<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed little or <hi>no<g ref="char:EOLhyphen"/>thing,</hi>
+for his minde fancied <hi>other things:</hi> And if there were
+any <hi>Robberies Committed,</hi> he would importunately enquire
+the <hi>Manner</hi> of it, and delighted more in ſuch <hi>Relations,</hi> then
+in my thing that tended to his <hi>Book,</hi> and was very <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>able in
+<hi>Jeſting;</hi> (yet loved not learning) and his <hi>Father</hi> perceiving
+his diſaffection thereunto, and to other, <hi>A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts</hi> which he would
+have beſtowed upon him, and finding him uncapable, (or ra<g ref="char:EOLhyphen"/>ther
+unwilling) to proceed in the ſame any longer; did take
+him home to ſee if he could learn him his <hi>own</hi> trade, but his
+minde ſtill wandering, twas in vain for his <hi>Father</hi> to inſtruct
+him in that <hi>Trade,</hi> ſo that his <hi>Father</hi> bound him an Appren<g ref="char:EOLhyphen"/>tize
+unto a <hi>Butcher</hi> in the ſame Town, where he lived for the
+ſpace of a year, ſtill ſtudying how he might releaſe himſelf of
+that <hi>Bondage,</hi> thinking every other two, till he was at his <hi>Free
+Liberty,</hi> which he obtained; as you ſhall ſee in this enſuing
+<hi>Chapter.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Hind run from his Maſter.</head>
+               <p>HIND living but a weary life with his maſter, would of<g ref="char:EOLhyphen"/>ten
+complain to his fellow Apprentize of their <hi>Slaviſh</hi>
+life and condition, and told him, <hi>That it was better to rob on
+the high way, then ſo to ſpend his life,</hi> and ſo reſolved to en<g ref="char:EOLhyphen"/>large
+his reſtraint; and upon a time he puts on his <hi>beſt appa<g ref="char:EOLhyphen"/>rel</hi>
+and goes to his <hi>Mother</hi> and deſires leave of her <hi>privately</hi>
+(unknown to his <hi>Father)</hi> to go to <hi>London;</hi> and there he told
+his <hi>Mother, he had a friend that in a ſhort time would procure
+him a place to his content;</hi> the good old woman loving her
+<hi>onely ſon</hi> ſo dearly, (being her onely joy) that ſhe would not
+ſeem to deny him, that requeſt; but gave him <hi>forty ſhillings,</hi>
+and promiſed to furniſh him with no more money, untill ſuch
+time as he ſhould be placed; ſo that now he gives his maſter
+the <hi>ſlip,</hi> and travels towards <hi>London,</hi> and upon the Rode he
+<pb facs="tcp:117343:7"/>
+overtakes ſome <hi>Carriers,</hi> of whom he asked ſome <hi>queſtions,</hi>
+but they anſwered him but <hi>ſaucily,</hi> whereupon <hi>Hind</hi> ſtrikes
+one of them to the ground, but the reſt ſeeing that, fell upon
+him, and intreated him with many ſower blowes, and at laſt
+being parted, <hi>Hind</hi> tells them <hi>that he would requite their
+cowardlineſs;</hi> as afterwards he performed by robbing them,
+as ſhall be intimated hereafter.</p>
+            </div>
+            <div type="part">
+               <head>What befel him when he came to London.</head>
+               <p>HIND being now come to <hi>London,</hi> did meet with many
+of his friends, and acquaintance, and one night being
+<hi>drinking</hi> in the <hi>City,</hi> and too long ſtaying by the <hi>good liquor,</hi>
+made <hi>Indentures</hi> as he went by the <hi>Counter,</hi> (a <hi>Trap</hi> to catch
+ſuch <hi>Rats,</hi> was forced to take a <hi>nap</hi> before he went any fur<g ref="char:EOLhyphen"/>ther,
+and after his firſt <hi>ſleep,</hi> awaked and looked about him,
+ſaying, <hi>This is a large houſe and may entertain many gueſts,</hi>
+but I do not intend to keep my <hi>Chriſtmas</hi> here; and after<g ref="char:EOLhyphen"/>wards
+meeting with ſome <hi>mad Lads</hi> (as mad as himſelf) in
+earneſt reſolved to be <hi>drunk<g ref="char:punc">▪</g>
+                  </hi> being before but ſpiced a lit<g ref="char:EOLhyphen"/>tle
+with the ſame <hi>diſeaſe,</hi> in jeſt; now they drink and roar,
+fearing neither <hi>Cunſtable,</hi> nor <hi>Watchmen,</hi> (to come to diſturb
+them) and at this place <hi>Hind</hi> became acquainted with<note n="*" place="margin">
+                     <hi>Allen</hi> was in the Counter for being drunk.</note> 
+                  <hi>Allen,</hi>
+who now is one of the <hi>chief Rogues</hi> in the <hi>Pack</hi> and promiſed
+<hi>Hind</hi> to entertain him as his ſervant, and to learn him ſuch an
+<hi>Art,</hi> as would for ever make him a <hi>Gentleman, Hind</hi> being
+willing to imbrace his proffer, (to be a <hi>Gentleman)</hi> vowed,
+<hi>To ſerve him in any thing:</hi> ſo the morning being come, they
+payed their <hi>Fees,</hi> and were <hi>diſcharged;</hi> now <hi>Hind</hi> is very ob<g ref="char:EOLhyphen"/>ſervant
+to his <hi>new Maſter,</hi> and thinks his money <hi>well ſpent</hi> in
+the T<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pling houſe, by that means to get <hi>ſo good</hi> a Maſter, in ſo
+ſhort a time; <hi>Allen</hi> takes his ſervant to the <hi>Tavern</hi> to conſult
+of ſome points, that they may loſe no time.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:117343:8"/>
+               <head>How Allen inſtructs his new ſervant, and ſets him to rob a
+Gentleman.</head>
+               <p>ALLEN being at the Tavern with the reſt of his <hi>Crew,</hi>
+began to drink <hi>merrily;</hi> but <hi>Hind</hi> being ſomewhat mo<g ref="char:EOLhyphen"/>deſt,
+went from the table, and ſtood by them leaſt his <hi>new
+Maſter</hi> ſhould think him <hi>Sawcy</hi> if he were too familiar, ſtill
+expecting what <hi>rare Art</hi> his Maſter would teach him; <hi>Allen</hi>
+ſeeing his young man in a <hi>Study</hi> took him aſide, ſaying, <hi>I
+would have you be as my companion and friend, and not as a ſer<g ref="char:EOLhyphen"/>vant,
+neither do I look for any ſuch reſpect as you do give me;
+you ſhal eat and drink as I do, and if I have money, you ſhal have
+part, and want none, and if I want, you muſt help to get ſome
+as well as you can:</hi> In ſhort, <hi>Hind</hi> condeſcended, and they
+<hi>ſwore him to be true to their Gang;</hi> which being done, they
+admit him as a <hi>Brother</hi> of their Company: And now to <hi>Fleſh</hi>
+him they determined, and went to a ſtable, where were many
+brave Horſes: <hi>Allen</hi> bid him chuſe his <hi>Horſe,</hi> and to take
+which he <hi>liked beſt;</hi> whereupon <hi>Hind</hi> did chuſe the very beſt
+(and <hi>Allen</hi> and his Gang wondred much to ſee what
+an audacious ſpirit their new Brother had:) Now they go to
+<hi>Shooters-Hill,</hi> where preſently they diſcovered a Gentle<g ref="char:EOLhyphen"/>man
+and his ſervant coming towards them; and <hi>Allen</hi> bid
+<hi>Hind</hi> to ride alone up to them, and they would <hi>lie</hi> in an <hi>Am<g ref="char:EOLhyphen"/>buſh</hi>
+if occaſion ſhould ſerve; thereupon <hi>Hind</hi> rides to them
+(being already tutor'd to the purpoſe) and bids them <hi>Stand,
+and deliver ſuch money as they had, otherwiſe he would preſent<g ref="char:EOLhyphen"/>ly
+be their death;</hi> The Gentleman not willing to die, preſent<g ref="char:EOLhyphen"/>ly
+gave him <hi>Ten pounds,</hi> which was all the Gentleman had;
+<hi>Hind</hi> ſeeing it was all he had, ſaid, <hi>Sir, here is forty ſhillings
+for you to bear your Charges; in regard it is my Handſale;</hi> the
+Gentleman anſwered, <hi>I wiſh you better luck with it then I
+have;</hi> ſo <hi>Hind</hi> took his way, and came to the reſt of the gang;
+<pb n="5" facs="tcp:117343:8"/>
+and <hi>Allen</hi> praiſed him for learning his Art ſo quickly, ſaying,
+did you not ſee, <hi>How he rob'd him with a Grace.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Hind ſold his Horſe to a Citizen of London.</head>
+               <p>
+                  <hi>HInd</hi> having Liberty to ride where he pleaſed, having his
+Art already ſo perfectly; upon a time took an occaſion to
+ride to <hi>Barnet,</hi> where he took up his <hi>Inn,</hi> and there met with
+ſome Gentlemen, and were very merry together; and after
+Supper, <hi>Hind</hi> went to<note n="*" place="margin">He fed him with fleſh.</note> 
+                  <hi>feed</hi> his horſe, and ſee him dreſt, and
+ſome of the Company went with him (but chiefly a <hi>Citizen)</hi>
+and when they came into the <hi>Stable,</hi> the <hi>Citizen</hi> looked upon
+all the <hi>Horſes,</hi> wiſhing, <hi>he had a better then his own; his be<g ref="char:EOLhyphen"/>ing
+the worſt;</hi> and <hi>ſwitching</hi> the horſes, at laſt ſwitched <hi>Hinds,</hi>
+which leapt with ſuch <hi>courage,</hi> as made the young Citizen
+wiſh him <hi>his own;</hi> and asked the Hoſtler, <hi>whoſe horſe it was;</hi>
+the Hoſtler anſwered, <hi>it is the Gentlemans in the gray ſuit.
+I wiſh he would ſel him me,</hi> ſaid the Citizen; In the interim,
+<hi>Hind</hi> came into the Stable where the Citizen and the Hoſtler
+were; The Hoſtler ſaid, <hi>Sir, will you ſell your horſe: Hind</hi>
+ſaid, <hi>that money would buy him;</hi> Sir, ſaid the Citizen, <hi>I have
+a good Gelding here, but that he is out of fleſh; what ſhal I
+give you, and my Gelding, for your Horſe,</hi> Hind ſaid, <hi>Sir, you
+ſhal give me five and twenty pound and your Gelding;</hi> The Ci<g ref="char:EOLhyphen"/>tizen
+told him it was too much; <hi>yet</hi> ſaid he, <hi>I will give you</hi> 20 l.
+<hi>in Gold and my gelding, which is worth</hi> 8 l. <hi>for your horſe:</hi> Now
+he ſtrikes him earneſt with a piece of gold, <hi>Hind</hi> loving that
+<hi>kind</hi> of money, yeilded that a bargain; the Citizen had the
+beſt bargain, if he could have kept the horſe; though he
+bought him by <hi>Candle-light:</hi> The Citizen pays <hi>Hind</hi> the reſt
+of the gold, and gives him a pottle of ſack for good luck; af<g ref="char:EOLhyphen"/>ter
+their mirth they go to bed. In the morning, <hi>Hind,</hi> out
+of courteſy, would have the Citizen on his way; but as they
+rod, <hi>Hind</hi> found fault that he rayned his horſe too hard, ſaying,
+<hi>he is tender mouthed, and you will put him quite out of his pace:</hi>
+But they now riding in <hi>Endfield-Chaſe, Hind</hi> deſired the Ci<g ref="char:EOLhyphen"/>tizen
+to let him ride the horſe, and he would ſhew him how
+<pb facs="tcp:117343:9"/>
+to pace him right; the Citizen eaſily believing what <hi>Hind</hi> ſaid,
+alighted, and mounted the horſe that <hi>Hind</hi> rid; <hi>Hind</hi> fin<g ref="char:EOLhyphen"/>ding
+himſelf well ſetled on his own horſe, paced him a little
+way; Sir, ſaid <hi>Hind, you ſhall ſee his true pace the next time
+you ſee me;</hi> ſo he rod at <hi>full ſpeed</hi> till he was out of the Citi<g ref="char:EOLhyphen"/>zens
+ſight: the Citizen began to wonder at this ſudden change,
+ſtill thought that <hi>Hind</hi> was but in jeſt; but when he found it
+in earneſt, wiſhed that he had never ſeen <hi>Hind</hi> nor his horſe:
+But wiſhing was in vain! for <hi>Hind</hi> was ſooner out of the Ci<g ref="char:EOLhyphen"/>tizens
+ſight then out of his minde: for his minde was ſome<g ref="char:EOLhyphen"/>times
+of his gold, and ſometimes of the horſe; not knowing
+which was the greateſt loſs to him. Being in this ſtudy, he
+was recolected to his ſenſes by ſome Company; who asked
+him the reaſon of his melancholy; to whom, when he had re<g ref="char:EOLhyphen"/>lated
+his bad fortune, thought to have had ſome comfort of
+them: but it proved otherwiſe; for inſtead of comforting him,
+they fell a laughing and jearing him. The Citizen ſaid, <hi>Gen<g ref="char:EOLhyphen"/>tlemen,
+forbear, for this is worſe then the loſs of all, to be laugh<g ref="char:EOLhyphen"/>ed
+at.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Hinds return home to Allen, and what hapned afterward.</head>
+               <p>
+                  <hi>HInd</hi> rod merrily home, giving his Maſter a good account
+of the time he was abſent, ſhewing him the Citizens gold,
+and telling him the jeſt: <hi>Allen</hi> laughing at his new ſervants
+forwardneſs, highly commending his wit to other of the gang;
+who were much in love with their new <hi>Brothers</hi> conceits. Ha<g ref="char:EOLhyphen"/>ving
+all a fancy to travel, they go into the Countrey; under
+many diſguiſes they rob: Sometimes with a Coach: ſometimes
+as Noblemen and their ſervants: much harm they did, undiſ<g ref="char:EOLhyphen"/>covered:
+but riding along, they ſpied a Gentlemans Coach
+coming full of Gentlewomen, whom they ranſack of their mo<g ref="char:EOLhyphen"/>ney,
+Jewels, Rings, and the beſt of their <hi>Carriage,</hi> leaving
+them but two horſes to draw their Coach, which before had
+ſix: Now they leave the <hi>Ladies</hi> with their ſlow driving, to o<g ref="char:EOLhyphen"/>vertake
+<hi>them</hi> if they can: They having their bie-places to un<g ref="char:EOLhyphen"/>load
+<pb n="7" facs="tcp:117343:9"/>
+their carriage, and divide their ſpoyle: made themſelves
+merry with a <hi>portion</hi> which was to be the preferment of a
+<hi>young Lady;</hi> but being <hi>paid before ſhe was married, ſpoiled the
+ſport:</hi> for the young Gallants love was not ſo <hi>hot,</hi> but this
+newes quickly coold it: <hi>Which ſhewes that money is the chief<g ref="char:EOLhyphen"/>eſt
+drug, to put off a homely piece of fleſh in theſe days.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Hind parted from his Company, and appointed to meet them
+at a certain place; and how he robbed two Gentlemens ſer<g ref="char:EOLhyphen"/>vants;
+and cauſed a Parſon to be apprehended for a high-way-man,
+and eſcaped himſelf.</head>
+               <p>
+                  <hi>HInd</hi> being informed of a Purchaſe, deſired leave of his
+gang, to go by himſelf for a day, and appointed them
+to meet him at a certain place; but his plot failed: and be<g ref="char:EOLhyphen"/>ing
+vext, he not much minded his way, but rod on another
+road, where he eſpied ſome gentlemen drinking at an Ale-houſe
+on horſe-back, having ſent their ſervants before: <hi>Hind</hi>
+paſſed by them; but riding at a good rate, quickly overtook
+the Gentlemens ſervants, who rod but eaſily: <hi>Hind</hi> being with
+them, ſaw by their Portmantles that there was money in them;
+<hi>bid deliver the money, or he would be their death:</hi> they being
+not uſed to fight, yeilded unto him; but he ſeeing their de<g ref="char:EOLhyphen"/>laies
+would breed danger; with his dagger-knife, cut open
+the Portmantles, and took out the money, and tying the baggs
+together, laid them before him and rid full ſpeed away: one
+of the ſervants rod to acquaint their Maſter, who preſently
+perſued <hi>Hind</hi> hard: <hi>Hind</hi> met a Parſon and ſaid to him, <hi>Sir,</hi>
+I <hi>am like to be robbed, you muſt ſtand to it now for your own
+good as well as mine: they would have this money from me, which
+you ſee. Come Sir, be of good cheer, one honeſt man will skare
+ten theeves: you ſhall have one of my piſtols:</hi> ſo <hi>Hind</hi> gives the
+Parſon a piſtol ready cock't and charged, and bids him fire at
+them that come firſt; while I ride down to the <hi>next Village
+and raiſe the Countrey-people to be our help.</hi> The <hi>Parſon</hi> ha<g ref="char:EOLhyphen"/>ving
+taken a cup too much at a wedding, was <hi>pot-valliant,</hi> and
+rid up boldly to the Gentlemen, and fired his Piſtol at them;
+<pb n="8" facs="tcp:117343:10"/>
+but being too far off, did no execution to either of them; but
+he rid nigher to them, and flung the <hi>Piſtol</hi> at one of them, that
+he had like to have knockt him off his horſe: the Gentlemen
+ſeiſe on him, and take him priſoner: the Parſon cries out,
+<hi>ſpare my life, and you ſhall have all my money:</hi> no Sirra, ſaid
+the Gentlemen, <hi>we will have you hanged: what? a Parſon
+and rob on the high-way:</hi> they preſently hale him to the next
+Juſtice of the Peace, which was very near: when they came
+before the Juſtice, they told him, <hi>That they were robbed of al<g ref="char:EOLhyphen"/>moſt
+two hundred pounds; and that this Parſon was one of the
+Theeves:</hi> the Juſtice marvailed that ſuch an apparent teſtimo<g ref="char:EOLhyphen"/>ny
+ſhould come againſt the Parſon of his Pariſh.</p>
+               <p>The Parſon by this time was come to himſelf, and deſired
+the Juſtice to give him leave to ſpeak for himſelf: being li<g ref="char:EOLhyphen"/>cenſed
+to ſpeak, he ſaid to the Juſtice, <hi>Sir, you have known me
+this twenty years, and no man can ſay I have wronged him of
+a penny; much leſs this which is laid to my charge;</hi> Sir, I ſhall
+tell you ſo much as I know of this buſineſs: <hi>as I was riding in
+my way home, I met a man who had two baggs of money before
+him, who told me that theeves perſued him, and he deſired
+my help; and ſaid that I need not fear, for One honeſt man would
+beat Ten theeves: ſo he gave me a Piſtol charged, cockt and
+primed, and bid me fire at the firſt that came, while he raiſed
+the Countrey men to aſſiſt us:</hi> but when theſe Gentlemen
+came down the hill, I rod up to them, and fired my piſtol a<g ref="char:EOLhyphen"/>mong
+them, and when I had ſo done, I flung it at this Gen<g ref="char:EOLhyphen"/>tlemans
+head, thinking they had been<note n="*" place="margin">Pointing at one pre<g ref="char:EOLhyphen"/>ſent.</note> theeves: <hi>Sir, this is
+all I know of the matter.</hi> The Juſtice laughed to ſee the Par<g ref="char:EOLhyphen"/>ſon
+of his Pariſh apprehended for a high-way-man; ſo the
+Juſtice paſt his word for his appearance the next Aſſiſes: who
+when he was brought before the Bench, was<note n="*" place="margin">He might have been hanged.</note> cleared: But <hi>he
+made a vow never to fire Piſtols more.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:117343:10"/>
+               <head>How Hind came to his Company ſhewing them the money; and
+what hapned to them at the ſame time.</head>
+               <p>HIND having Eſcaped by leaving the Parſon in the <hi>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rch:</hi>
+came to the place appointed by his Companions, where be<g ref="char:EOLhyphen"/>ing
+merry he ſhews them his daies work; one of the<note n="*" place="margin">A good ſervant.</note> ſervants
+of the houſe over-hearing their diſcourſe: told his Maſter of it,
+who to clear himſelf of them: hearing ſo many <hi>Hew and
+Cries</hi> abroad for ſuch men, went and acquainted the next
+<hi>Conſtable</hi> of it: who went for a warrant to apprehend
+them: <hi>Hind</hi> having a quick wit, did gueſs by the peoples
+<hi>ſtaring</hi> up to the windowes, that they were diſcovered: he
+then ſpeaks to all his Company to ſhift<note n="*" place="margin">He pro<g ref="char:EOLhyphen"/>vides for one.</note> for themſelves: he
+takes one of his bags and goes into the ſtable: and mounts
+his horſe, and was gone before any of the other could finde
+their cloaks and neceſſaries to be going: there came in this
+mean time many people in, who filled the yard with noiſe, that
+they could ſcarce hear one another: <hi>Allen</hi> to appeaſe the
+multitude, flung handfuls of money among them: ſaying,
+<hi>Good people forbear coming any farther,</hi> and be civil: for
+we are Gentlemen: and to the contrary expect death ſome of
+you: Now <hi>Allen</hi> and his Comrades deſcend the ſtairs with
+their ſwords drawn and their piſtols cock't; the Townſmen
+being but ſlightly armed, they found ſmall reſiſtance: for
+more came to ſee then to fight, <hi>Allen</hi> makes his way to the
+ſtable: where they mounted all their horſes, and rod out
+at the back gate of the Inn: but riding hard they met with
+<hi>hew and cries,</hi> which had raiſed the Country, who fell foul
+upon <hi>Allen</hi> and his lads; but <hi>Allens</hi> men being well moun<g ref="char:EOLhyphen"/>ted,
+much injured the Country men: who had no more
+minde now to follow them: <hi>Allen</hi> being free from trou<g ref="char:EOLhyphen"/>ble
+as he thought, yet ſpared no horſe fleſh to be out of the
+way: but being twenty miles off that place: now thought
+himſelf ſafe: where after ſupper he went to bed; he
+had not taken his firſt ſleep before there were ſearch
+made all over the Town for ſuch men: who at the laſt came
+to the Inn where <hi>Allen</hi> lay: the Conſtable being ſome<g ref="char:EOLhyphen"/>what
+<pb n="10" facs="tcp:117343:11"/>
+ſilley, was ſatisfied with a reaſonable <hi>Anſwer:</hi> for they
+came to his Chamber, where by his attend<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce he ſeemed to
+be ſome great perſon:<note n="*" place="margin">The Counſtable was a ſoft<g ref="char:EOLhyphen"/>ly man.</note> 
+                  <hi>Allen</hi> was amaſed to ſee ſo many
+lights, and w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tchbills, in his Chamber, ſaid Mr. Counſtable,
+<hi>You might have been more civil, then to preſs into my Chamber</hi>
+                  <note n="*" place="margin">A great miſtake.</note> 
+                  <hi>at this time of the night:</hi> Sir, ſaid the Counſtable I was com<g ref="char:EOLhyphen"/>manded
+ſo to do: <hi>I would your torches and candles were all
+out,</hi> ſaid Allen, <hi>otherwiſe I ſhall not ſleep:</hi>
+                  <note n="*" place="margin">He ſpeaks to his man.</note> 
+                  <hi>Jack:</hi> give the
+Counſtable five ſhilings to make his watchmen drink: I thank
+you ſir ſaid the Counſtable, <hi>I ſee you are an honeſt Gentleman
+now: Good night ſir: Good night Mr. Counſtable: I pray
+let me hear no more of you.</hi>
+               </p>
+               <p>The Counſtable deſcending the ſtairs; ſaid to ſome of his
+watchmen, I am ſorry I have troubled the Gentleman: did
+you not ſee what a glorious ſhute lay on the Table: I'll war<g ref="char:EOLhyphen"/>rant
+it <hi>coſt twenty Nobles, at leaſt:</hi> his men I beleeve are all
+<hi>Gentlemen</hi> or <hi>Gentlemens ſons;</hi> good lord! If I had taken
+theſe men for the Robbers, What ſhould have become of me,
+and<note n="*" place="margin">Pointing to all the watch.</note> you too: one of <hi>Allens</hi> men came down and called for a
+pint of Sack in a Gallon pot: the Counſtable drank Sack like
+ſmall Beer, till the watchmen were troubled to carry him, for
+go he could not; ſo we leave the Counſtable drunk as he is:
+and return to <hi>Allen:</hi> who is in a <hi>ſweat.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Allen cauſed his men not to go to bed, but to ſit up and
+drink, fearing leaſt a plot ſhould be laid to take him: and
+how in the morning he would have robbed a Steward to a
+Noble man.</head>
+               <p>WHEN <hi>Allen</hi>'s men came from the <hi>Counſtable,</hi> he ſaid
+to them, <hi>How goes the ſquares abroad:</hi> they anſwer
+him very well: <hi>feel my hands ſaid</hi> Allen, <hi>If I was not in a
+fear when they came:</hi> well we are much bound to God that he
+gave this <hi>Counſtable</hi> no more underſtanding; otherwiſe we
+might have lookt out at a grate by this time; I hope that
+<note n="*" place="margin">
+                     <hi>Meaning</hi> Hind.</note> 
+                  <hi>James</hi> is well, for I love him dearly; Gentlemen, I ſhall deſire
+you to ſit up this night for fear of the worſt: ſo <hi>Allen</hi> made as
+<pb n="11" facs="tcp:117343:11"/>
+though that diſturbance would not let him ſleep any more
+that night: ſaying, <hi>When my firſt ſleep is broke, I can ſleep no
+longer:</hi> ſo he ſends one of his ſervants to the Hoſt of the
+houſe to come and drink with him: who being a good fellow,
+never denies drink, came willingly to Mr. <hi>Allen:</hi> (who told
+him, he was ſorry there was any diſturbance in the houſe; but
+being in all other Inns, he hoped he would not be offen<g ref="char:EOLhyphen"/>ded:
+No, no, ſaid <hi>Allen, I am not troubled,</hi> but onely for
+my<note n="*" place="margin">He could not ſleep in quiet for fear of taking.</note> ſleep: but this ſhall be your penalty that you drink all
+night with me; ſir, ſaid the Hoſt, I ſhall fulfil your deſire:
+then ſaid <hi>Allen</hi> I will riſe; there being a great fire in the
+room: their drink was muld ſack till morning: which when it
+appeared he cauſed all his men to be in a readineſs for to take
+horſe: and accordingly his deſire was accompliſhed, ſo ta<g ref="char:EOLhyphen"/>king
+leave of his Hoſt, rod away: but riding by-ways becauſe of
+the hew and cryes overtook a Gentleman riding with a
+port mantle behinde him: <hi>Allen</hi> uſed ſome diſcourſe; and a<g ref="char:EOLhyphen"/>mong
+the reſt asked if he lived thereabouts: he anſwered yes,
+I am a ſteward to a noble man in theſe parts, and I have been
+to fetch in ſome rents that lay forty miles off: <hi>Allen</hi> was glad
+when he heard he had money: ſaid, ſir, how do you think I
+maintain all theſe Gentlemen: ſhall I tell you: <hi>I borrow of
+thoſe that are not</hi>
+                  <note n="*" place="margin">Moſt ſte<g ref="char:EOLhyphen"/>wards are knaves in their <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>earts</note> 
+                  <hi>willing to give or to lend:</hi> ſir, ſaid the Ste<g ref="char:EOLhyphen"/>ward
+you are merrily diſpoſed: and are willing to try my pa<g ref="char:EOLhyphen"/>tience:
+I ſpeak in earneſt ſaid <hi>Allen,</hi> therefore unto your port<g ref="char:EOLhyphen"/>mantle:
+ſir, ſaid the Steward, if you will have it, I cannot
+now gainſay it: I am a ſervant, and if you take this money
+from me I am undon; but I will direct you to a greater pur<g ref="char:EOLhyphen"/>chaſe
+if you let me eſcape: to this <hi>Allen</hi> conſented: the Ste<g ref="char:EOLhyphen"/>ward
+pulled out of his pocket a Letter, which his Lord had
+ſent him, ſignifying that one of his Lords Creditors was come
+from <hi>London</hi> for two hundred pounds, which was to be paid as
+ſoon as he came home: this ſomewhat ſatisfied <hi>Allen;</hi> who
+ſware the Steward to be true to them, and he ſhould have
+ſhare of what they got: the Steward guides them to a friends
+Inn of his, where they lay ſecure. till he brought them news
+of the Merchants travelling, they ſoon ſtayed his journey by
+<pb n="21" facs="tcp:117343:12"/>
+eaſing him of his money: thus you may ſee how ſome men <hi>to
+ſave themſelves from a little harm, will eaſily undo other men
+to get gain:</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Hind Robbed a Gentleman on foot, and furniſhed himſelf
+with a horſe, money and cloaths.</head>
+               <p>HIND having never a horſe whereby his trade fail'd him,
+was reſolved to get one, or to follow the trade on foot:
+hearing of his<note n="*" place="margin">His Ma<g ref="char:EOLhyphen"/>ſter was hanged.</note> Maſters <hi>misfortune,</hi> grieved him much; but
+being paſt, he reſolved to forget, and caſt it out of his
+minde. And now to colour his knavery, puts himſelf in the
+habit of a <hi>Shepheard,</hi> with a <hi>long ſtaff</hi> in his hand: and ſo
+travels towards <hi>Cambridg;</hi> where in his way he eſpies a
+Gentleman coming down a hill <hi>leading</hi> his horſe in <hi>his hand:
+Hind,</hi> as if he took no notice of the Gentleman: went whiſtling
+the tune of an <hi>ordinary Pſalm:</hi> when the Gentleman came
+to the foot of the hill where <hi>Hind</hi> now ſtood whiſtling his
+<hi>Pſalm:</hi> the Gentleman enquired of him the time of the day;
+he anſwered him very civilly: but as the Gentleman was <hi>get<g ref="char:EOLhyphen"/>ting</hi>
+on his horſe, <hi>Hind</hi> hit him with his <hi>long pole</hi> ſuch a ſtroke
+between the <hi>head and the ſhoulders,</hi> that he made him <hi>tumble</hi>
+on the <hi>ground: Hind</hi> preſently took his <hi>money, cloak, horſe,</hi>
+and <hi>ſword,</hi> and left him his <hi>old coat,</hi> and his <hi>pike-ſtaff,</hi> to
+beat one the hoof as he had done, giving him twenty ſhillings
+back to bear his charges: <hi>but to this day, the Gentleman loves
+not the tune of a Pſalm.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Hind after he had left his company, Robbed a Doctor of
+Phiſick of forty pound in Gold.</head>
+               <p>HIND having left his Gang, and now riding by himſelf
+made a vow never to keep ſo many lads company; for be<g ref="char:EOLhyphen"/>ing
+but a little in drink, you might eaſily underſtand what
+they were, which would endanger all their necks: therefore
+to ſave himſelf as long as he could, ſhund all their company:
+<pb n="12" facs="tcp:117343:12"/>
+and reſolved to ride only by himſelf; and what he then got,
+was not to be ſhared: riding and muſing, he came to a Hill,
+where he alighted, and as he came down, ſaw a Handkerchief
+full of little <hi>Boxes</hi> and <hi>Papers,</hi> he takes them up and looks in
+the boxes, and there was <hi>pills gilded;</hi> and in the papers cer<g ref="char:EOLhyphen"/>tain
+<hi>minerals</hi> and <hi>powders: Hind</hi> very carefully carries them,
+knowing that ſome <hi>Doctor</hi> or <hi>Apothecary</hi> had loſt them: be<g ref="char:EOLhyphen"/>ing
+now at the foot of the hill, he mounts his Cheval, and a<g ref="char:EOLhyphen"/>way
+he rides the beaten Road: The <hi>Doctor</hi> which had loſt
+theſe things, by chance <hi>miſſes them,</hi> and rides back, remem<g ref="char:EOLhyphen"/>bring
+he had them when he came down the hill: He meets
+<hi>Hind,</hi> who ſeeing him in that civil habit, did gueſs him to be
+the man who had loſt thoſe things. The <hi>Doctor</hi> ſaid, <hi>Sir,
+I pray did you ſe a handkerchief with Phyſical things in it?</hi> Hind
+anſwers him, <hi>I did take up ſuch a thing on the hill, and here it
+is at your ſervice:</hi> The <hi>Doctor</hi> ſaid, <hi>Sir, I cannot go with you
+to the Town to requite your courteſie, but I will engage you to
+go to a</hi> Knights <hi>houſe hard by, whether I am going, and we will
+have a bottel of ſack, and a game</hi>
+                  <note n="‖" place="margin">The Doctor was a gamſter.</note> 
+                  <hi>at Gleek or Cribidg, and to
+morrow I will have you five mile on your way;</hi> to this<note n="†" place="margin">Their bar<g ref="char:EOLhyphen"/>gain is now made.</note> 
+                  <hi>Hind</hi> a<g ref="char:EOLhyphen"/>greed;
+and now they ride together to the <hi>Knights houſe,</hi> where
+the <hi>Doctor</hi> was very familiar; and ſaid, <hi>Sir William,</hi> I <hi>am come
+once more, and have brought my friend with me to be merry to
+night:</hi> The Knight bid them welcome; and having them in<g ref="char:EOLhyphen"/>to
+his Parlor, where two or three friends were at cards: the
+Knight makes <hi>Hind</hi> welcome, and drinks to him a boul of
+ſack; and after ſmall intreaty, <hi>Hind</hi> makes them all merry
+with one pretty<note n="*" place="margin">He was bold enough</note> Jeſt or another: Then the Knight deſires the
+<hi>Doctor</hi> and <hi>Hind</hi> to play a game at <hi>Gleek</hi> with him; being
+ſet to it, they play high: twelvepenny <hi>Gleek,</hi> and ten ſhil<g ref="char:EOLhyphen"/>lings
+the beſt <hi>Trump:</hi> ſupper being ready, they were called
+from the ſport; <hi>Hind</hi> having loſt about five pound, with mo<g ref="char:EOLhyphen"/>deſty,
+left off: the <hi>Knight</hi> having loſt twenty five pounds to
+the <hi>Doctor,</hi> who won <hi>thirty pounds</hi> in all: Now they go to
+ſupper, where with much mirth they paſs away the time; after
+ſupper they go to cards again; the <hi>Doctor</hi> quarrels with <hi>Hind,</hi>
+and taxes him with foul play; <hi>Hind</hi> knowing how the caſe
+ſtood, yeilds it a loſs, and leaves off play with the <hi>Doctor;</hi> the
+<pb n="14" facs="tcp:117343:13"/>
+                  <hi>Doctor</hi> playes till he had won fifty pound of the <hi>Knight;</hi> be<g ref="char:EOLhyphen"/>ing
+late they give over, and after a cup of ſack they go to bed:
+<hi>Hind</hi> and the <hi>Doctor</hi> lodge together; when they were in their
+Chamber, <hi>Hind</hi> invites the <hi>Doctor</hi> to a <hi>Dinner</hi> at the next
+Town, and their bargain is to go<note n="*" place="margin">He had better have ſtaid, or gon with com<g ref="char:EOLhyphen"/>pany.</note> privatly (being the <hi>Doctors</hi>
+deſire ch<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efly) after the <hi>Doctors</hi> pipe was out, he puls out his
+money and told it on a table; the ſilver he put by it ſelf into
+a <hi>Cabinet</hi> which was given him by the <hi>Lady</hi> of the houſe; but
+the gold he put in a little <hi>bugle purſe</hi> and kept it in his pocket:
+In the morning early, <hi>Hind</hi> gets up, and cals the <hi>Doctor,</hi> who
+preſently aroſe, and went to the ſtable, and ſo mounted their
+horſes: and now they ſtudie what to have for their<note n="*" place="margin">He gave him a Breakfaſt indeed.</note> 
+                  <hi>Breakfaſt</hi>
+when they come to the Town; but as they rod, <hi>Hind</hi> and the
+<hi>Doctor</hi> could not agree: many words paſt; but in the end,
+<hi>Hind</hi> ſeeing his oportunity, ſaid, <hi>Sir, I muſt have your purſe of
+gold, therefore make no delay, but deliver it to me: The</hi> Doctor
+<hi>ſeeing no remedy among all his</hi> receits <hi>for this</hi> diſeaſe, <hi>delive<g ref="char:EOLhyphen"/>red
+it to</hi> Hind: <hi>well Sir;</hi> ſaid Hind, <hi>I ſhall deſire one curteſie
+more of you Mr.</hi> Doctor; <hi>that you ride back and excuſe me to
+the</hi> Knight <hi>and his good</hi> Lady, and tel them, <hi>that my mind run
+ſo much on your gold, that I could not take my leave:</hi> The
+<hi>Doctor</hi> rod back with a <hi>heavie heart</hi> and a <hi>light purſe:</hi> but be<g ref="char:EOLhyphen"/>ing
+come home to the <hi>Knight,</hi> he did his Errant, whereat they
+laughed; and he was not a little jeared of a <hi>Breakfaſt:</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Hind was betrayed by two whores: who ſent two highway
+men to take his money: undhow he killed one of their horſes,
+and robd the other of his money.</head>
+               <p>HIND being now full of gold, paſt away the day very mer<g ref="char:EOLhyphen"/>rily,
+and towards night, rides to an Inn which ſtood in a
+privat road, where it ſeems ſome highway men did uſe; after
+he had ſeen his horſe carefully dreſt and fed, came into the
+houſe, where were two handſome Ladies by the fire; he be<g ref="char:EOLhyphen"/>ſpoke
+a good ſupper, and invited the Ladies to it, when ſup<g ref="char:EOLhyphen"/>per
+was ready: he called for wine, and made them merry;
+they ſeemd very coy to him; but he knowing their humor,
+<pb n="15" facs="tcp:117343:13"/>
+puld out of his pocket a handfull of gold,<note n="*" place="margin">He was never no great ſinger</note> ſinging the Song,
+of <hi>Maids where are your hearts become; Look you what here
+is!</hi> after much mirth, to bed he went; he had not been
+long a bed; but the two men came in who kept theſe two
+whores, to whom they ſaid, that there was a gentleman in the
+houſe that had <hi>abundance of gold</hi> about him: they reſolve to
+watch his going, and to follow him in the morning; <hi>Hind</hi> be<g ref="char:EOLhyphen"/>ing
+wakefull, roſe early in the morning and was mounted be<g ref="char:EOLhyphen"/>fore
+thoſe Lads were ſtirring; when they heard his horſe
+praunce, they looked out of a window to ſee him; but the
+theeves ſeeing he had ſo <hi>good a horſe,</hi> were like to fall out who
+ſhould <hi>have him:</hi> one ſaid,<note n="*" place="margin">'Tis not good to di<g ref="char:EOLhyphen"/>ſtribute that one has not</note> 
+                  <hi>I will have the horſe, and you
+ſhall have his money: nay,</hi> ſaid the other, <hi>I will have his horſe.</hi>
+They quickly made themſelves ready, and rod after <hi>Hind;</hi>
+when they had overtaken him, they asked him which way he
+rod, he anſwers them, towards <hi>Cambridg:</hi> they tell him they
+would be glad of his company: now riding in a place where no
+people were nigh, one of the theeves ſings<note n="‖" place="margin">He jears <hi>Hind,</hi> hol<g ref="char:EOLhyphen"/>ding money in his hand</note> 
+                  <hi>Maids where are
+your hearts become, Look you what here is! Hind</hi> ſeeing their
+intent, and knowing he was betrayed, anſwers them in the ſame
+tune: <hi>Now you Rogues,</hi>
+                  <note n="†" place="margin">He draws a privat Pi<g ref="char:EOLhyphen"/>ſtol.</note> 
+                  <hi>you are both undone * Look you what
+here is,</hi> fyring at one of them, by chance ſhot his horſe in the
+head: the horſe preſently fell down with his Maſters leg un<g ref="char:EOLhyphen"/>der
+him: the other ſeeing this, betook him ſelf to flight, but
+<hi>Hind</hi> quickly overtook him, and made him deliver ſuch money
+as he had: cutting his girts and his bridle made him work e<g ref="char:EOLhyphen"/>nough
+to catch his horſe again. <hi>Hind</hi> now rides to the other
+theif who now lay in little eaſe: he alights a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d puls the horſe
+from his leg, and then helps him up, and takes away his money
+alſo, ſaying, <hi>is there but one Maſter-Thief in</hi> England, <hi>and
+would you venture to rob him: verily, were you not of mine
+own profeſſion; neither of you ſhould</hi>
+                  <note n="†" place="margin">He talks more then he means to do.</note> 
+                  <hi>have lived; but ſeeing
+you ventured hard for it, thou deſerveſt ſomething:</hi> ſo <hi>Hind</hi>
+gave him his money back which he had taken <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om him, to
+buy him another horſe: ſaying to him,<note n="*" place="margin">Pretious Counſel.</note> 
+                  <hi>Remember what I ſay
+unto you: Diſgrace not your ſelves with ſmall ſums, but aim
+high, and for great ones; for the leaſt will bring you to the gal<g ref="char:EOLhyphen"/>lows:
+Hind</hi> ſhaking the poor thief by the hand, left him to
+his partner to<note n="*" place="margin">Small comfort to walk on foot.</note> catch his horſe, and bid him farwell.</p>
+               <pb facs="tcp:117343:14"/>
+               <p>
+                  <figure>
+                     <head>Hatfield.</head>
+                     <lg>
+                        <l>Next; here I am preſented to thy view,</l>
+                        <l>Mounted aloft upon a gallant <hi>Nagg:</hi>
+                        </l>
+                        <l>And then behinde me doth appear to you,</l>
+                        <l>How I'm <hi>Enchanted</hi> by an ugly <hi>Hagg</hi>
+                        </l>
+                        <l>For <hi>Three years</hi> ſpace: A little time I wot;</l>
+                        <l>Yet many <hi>Pranks</hi> I plai'd, and <hi>Purſes</hi> got!</l>
+                     </lg>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Hind was Inchanted by a cunning woman, who after ſome
+diſcourſe ſwitched him with a Charmed Rod<g ref="char:punc">▪</g> not to be taken
+or harmed during the time this Charm ſhould laſt; which
+was for Three years.</head>
+               <p>AFter <hi>Hind</hi> had robbed the High-way-men of their mo<g ref="char:EOLhyphen"/>ney;
+It was his chance to ride to <hi>Hatfield,</hi> lying at the
+<pb n="17" facs="tcp:117343:14"/>
+                  <hi>George-Inn,</hi> being then the <hi>Poſthouſe;</hi> where he very merri<g ref="char:EOLhyphen"/>ly
+ſpent the evening with ſome Gentlemen that were there:
+In the morning very early <hi>Hind</hi> cals for his horſe, to b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n;
+being now mounted he takes leave of all thoſe Gentlemen
+that were ſtirring; as he rod along <hi>Hatfield,</hi> at the Towns end,
+an old <hi>Ill favoured woman</hi> asked an <hi>Almes</hi> of him: his horſe
+<hi>preſently ſtaid,</hi> and would go no further; <hi>Sir,</hi> ſaid the old wo<g ref="char:EOLhyphen"/>man,
+<hi>I have ſomething to ſay to you, and then you ſhal be gon;
+Hind</hi> not likeing her Countenance, puld out <hi>five ſhillings</hi> and
+gave her, thinking ſhe would but like a <hi>Gipſee,</hi> tell his fortune:
+Said, good woman <hi>I am in haſt;</hi> Sir, ſaid ſhe, <hi>I have ſtaid all
+this morning to ſpeak to you; and would you have me loſe my
+labour:</hi> ſpeak your mind, ſaid <hi>Hind.</hi>
+               </p>
+               <p>The old woman began thus:</p>
+               <p>Captain <hi>Hind,</hi> You ride and go in many dangers; wherefore
+by my poor Skill, I have thought on a way to preſerve you, for
+the ſpace of Three Years: but that time being paſt, you are no
+more then an ordinary man, and a miſchance may fall on you,
+as well as another: but if you be in <hi>England,</hi> come to me, and <hi>I</hi>
+will renew the Vertue of this <hi>Charm</hi> again: <hi>in ſaying theſe
+words, ſhe puld out of her</hi> boſom, <hi>a</hi> little box, <hi>almoſt like a</hi>
+                  <note n="*" place="margin">This Star was at the end of a needle, like a dyal.</note> Sun Dyal, <hi>and gave it Capt in</hi> Hind, <hi>and ſaid to him,</hi> When
+you are in any diſtreſs, open this, and which way you ſee the
+Star turn, ride or go that way, and you ſhall eſcape all dangers:
+<hi>ſo ſhe</hi> ſwitched him <hi>with a</hi> white Rod <hi>that was in her hand, and</hi>
+ſtrook <hi>the</hi> horſe <hi>on the</hi> butto<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks, <hi>and b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d him farwell: the horſe
+preſently leaped forward with ſuch courage, that</hi> Hind <hi>could
+not turn him to give her thanks; but gueſſing it was her will
+it ſhould be ſo, rod on his way. The time of this</hi> Charm <hi>was ex<g ref="char:EOLhyphen"/>pired
+in</hi> Ireland <hi>about ſome two months before</hi> Youghall <hi>was
+ſurpriſed by the Inhabitants for the Commonwealth of</hi> Eng<g ref="char:EOLhyphen"/>land,
+<hi>where</hi> Hind <hi>was wounded: as hereafter you ſhall hear
+in his Voyage to</hi> Ireland.</p>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:117343:15"/>
+               <head>How Hind robbed a Captain upon Chaulk hill in Buckingham-Shire.</head>
+               <p>AFter a day or two, <hi>Hind</hi> rod into <hi>Buckingham</hi> Shire,
+where he was acquainted with many Gentlemen: and
+paſſing away the time till his oportunity ſerved: It was his
+chance to ride towards <hi>Chaulk</hi> hill; <hi>Hind</hi> eſpied a little be<g ref="char:EOLhyphen"/>fore
+him, a Gentleman and his ſervant who were alighted to
+walk down the hill: The Captain gives his horſe to his man,
+and bids him ſtay at the Stile till he came down: the Captain
+having occaſion to untruſs a point, ſtaid under a little hedg:
+<hi>Hind</hi> watching his oportunity, rid ſoftly till he came near the
+Captain, and ſeeing him in good cloaths, rid haſtily up to him,
+and bid him, <hi>Deliver:</hi> The Captain was amazed at this preſent
+action of <hi>Hind,</hi> who all this while held a <hi>Piſtol at his breaſt:</hi>
+Hind bids him <hi>diſpatch;</hi> for tis not my cuſtom ſaid he, to ſtand
+<hi>manding;</hi> but I <hi>demand,</hi> and <hi>look you make no longer ſtay:</hi>
+the Captain deſired him to forbear: till he was truſt up: <hi>Hind</hi>
+giving him ſo much leave, ſaid, <hi>your money Sir.</hi> The Captain ſee<g ref="char:EOLhyphen"/>ing
+it could not be helpt by delays, delivers him thirty pieces of
+gold: <hi>Hind</hi> ſaid, <hi>Sir,</hi> I <hi>take this in part,</hi> I <hi>ſhall not be too merce<g ref="char:EOLhyphen"/>nary
+upon you at this time:</hi> and ſo he rod down the hill where
+the Captains man ſtaid with his Maſters horſe: <hi>Hind</hi> ſaid, <hi>Sir<g ref="char:EOLhyphen"/>ra,
+is that your Maſter on the hill:</hi> he anſwers him, <hi>yes Sir:</hi> then
+ſaid <hi>Hind, I ſeldom take any thing from the Maſter, but I give
+the ſervant ſomething.</hi>
+                  <note n="‖" place="margin">He gives him ten ſhillings.</note> here is <hi>ſomewhat</hi> for thee to drink <hi>my
+health:</hi> prithee tell thy Maſter, <hi>my name is</hi> Hind.</p>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:117343:15"/>
+               <head>How Hind robbed a Gentleman of one hundred and fifty pounds,
+near Nottingham.</head>
+               <p>HIND travelling up and down at laſt met with a luſty
+young fellow whom he had formerly known: and ask<g ref="char:EOLhyphen"/>ing
+him many queſtions, among the reſt: ſaid, <hi>Jack, If thou</hi>
+                  <note n="*" place="margin">You may gueſs that he was well bred.</note> 
+                  <hi>Wilt live with me thou ſhalt have money at command or any
+thing you want, Jack</hi> knowing partly his trade, gave conſent;
+<hi>Hind</hi> preſently bought a good horſe for his man; and furni<g ref="char:EOLhyphen"/>ſhed
+him with <hi>Cloaths,</hi> a <hi>ſword,</hi> and <hi>ſmall piſtols:</hi> being well
+fixed away they travel towards <hi>Nottingham;</hi> and as they rod
+they chanced to come into an Inn, where a Gentleman and his
+man were newly come before them: <hi>Hind</hi> rides to the ſtable
+door, where the Hoſtler was a taking of the other Gentlemans
+portmantle, the Hoſtler ſaid, <hi>it is but a little pormantle, but it
+is very heavy: Hind,</hi> well eying it ſaid to his man: <hi>Jack,
+enquire cuningly which way this Gentleman travels to mor<g ref="char:EOLhyphen"/>row:</hi>
+So <hi>Hind</hi> went in: and when ſupper was ready, they
+went to ſupper together: after the Gentlemen had ſupped
+the ſervants fell too: and <hi>Hinds</hi> man gives the other Gentle<g ref="char:EOLhyphen"/>mans
+ſervant a pint of Sack: and after ſupper <hi>Jack</hi> gives him
+ſome Spaniſh Tobaco, and now they begin to be great ac<g ref="char:EOLhyphen"/>quaintance;
+ſo they go together into the ſtable to ſee their
+Horſes dreſt: <hi>Jack</hi> asked the Gentlemans ſervant, <hi>which way
+they rod in the morning,</hi> he told him towards <hi>London,</hi> my
+Maſter, ſaid <hi>Jack, rides that way too,</hi> I think, now <hi>Jack</hi> ha<g ref="char:EOLhyphen"/>ving
+as much as he deſires, went to ſee what his maſter wan<g ref="char:EOLhyphen"/>ted:
+<hi>Hind</hi> bids his man get his ſlippers ready, and pull off
+his boots: which being done he takes his leave of the Gentle<g ref="char:EOLhyphen"/>man,
+and goes to bed: when he came into his Chamber, he asked
+his man which way they went: <hi>Jack</hi> tels him: In the mor<g ref="char:EOLhyphen"/>ning
+<hi>Hind</hi> rides firſt: but the Gentleman ſtays to eat his
+breakfaſt: after he had done he rod on his journey, and ri<g ref="char:EOLhyphen"/>ding
+by a wood where <hi>Hind</hi> and his man lay in ambuſh for
+them: <hi>Hind</hi> rides out to the Gentleman, and with his <hi>Cane
+ſlaps</hi> him over the <hi>pate:</hi> ſaying, <hi>have I nothing to do but to</hi>
+wait <hi>on you: Jack,</hi> takes his Portmantle off: maſter, <hi>tis hea<g ref="char:EOLhyphen"/>heavy:</hi>
+                  <pb n="20" facs="tcp:117343:16"/>
+Sir, ſaid <hi>Hind</hi> to the Gentleman, <hi>you are ill beloved
+in the Country that you cannot get gold for your ſilver: Jack</hi>
+rides back to the Gentlemans ſervant and <hi>ſtrik<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> him <hi>over the
+pate,</hi> ſaying, <hi>You Rogue, muſt I ſpoil my horſe to carry your
+Portmantle;</hi>
+                  <note n="*" place="margin">
+                     <hi>Jack</hi> ſtrikes him again.</note> 
+                  <hi>muſt</hi> I, <hi>muſt</hi> I, you Rogue.</p>
+               <p>
+                  <hi>Hind</hi> and his man rid away; leaving the Gentleman and
+his ſervant: looking one upon another, almoſt amaſed at this
+ſudden accident; the Gentleman at the laſt cheers up himſelf,
+and ſayes to his man; I <hi>was robbed between</hi> ſun and ſun,
+<hi>therefore the Country muſt pay me again:</hi> ſo they ride back to
+make their redreſſes: where we leave them to get their mo<g ref="char:EOLhyphen"/>ney
+if they can.</p>
+               <p>Hind and his man ſpared no horſefleſh till they were far e<g ref="char:EOLhyphen"/>nough
+from the Gentleman: for they rid all the by wayes, that
+it had been hard for any one to follow them; being at a place,
+where he knew himſelf ſafe, he looked in his Portmantle, where
+he found one hundred and fifty pounds. He leaving his man
+at this place; went himſelf into <hi>Gloceſterſhire,</hi> where he
+met with a <hi>Farmer,</hi> and had good ſport with him, and at
+laſt <hi>got his money.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Hind robbed a Farmer.</head>
+               <p>
+                  <hi>HIND riding between</hi> Gloceſter <hi>and</hi> Tewxbery <hi>over<g ref="char:EOLhyphen"/>took
+a</hi> Country-Farmer, <hi>who had money about him, to
+whom</hi> Hind <hi>had ſome diſcourſe, and as they were riding;</hi>
+Hind <hi>ſhewed him one of the</hi> States <hi>twenty ſhilling peeces,
+asking him, how he liked it: the Country Farmer replied,</hi> it
+is a very fair peece, <hi>I</hi> would <hi>I</hi> had one to carry home with me: If
+you pleaſe, <hi>Sir, I</hi> will give you one and twenty for it; <hi>Sir, ſaid
+Hind,</hi> being you are deſirous of it, you ſhall have it; <hi>the Coun<g ref="char:EOLhyphen"/>tryman
+pulled out his</hi> long purſe, <hi>and told out one and twen<g ref="char:EOLhyphen"/>ty
+ſhillings and gave</hi> Hind; <hi>ſo</hi> Hind <hi>gave him the peece of
+gold, ſaying,</hi> do not put it among your ſilver, for it will waſt
+the gold: <hi>well, ſaid the Country man,</hi> I'll put it in my little
+pocket then in a paper to keep it; Hind, <hi>ſeeing his purſe, lon<g ref="char:EOLhyphen"/>ged
+<pb n="21" facs="tcp:117343:16"/>
+like a</hi> woman with child <hi>till he had it: ſaid to the Farmer
+Sir, I</hi> want a little ſilver to buy a commodity that I have uſe
+for: <hi>nay,</hi> ſaid the Country man you ſhall have your gold again:
+<hi>the old ſaying is true,</hi> one may buy gold to dear: <hi>Hind ſaid,</hi>
+tell me not of old ſtories, but give me your money, for I will
+have it by fair means or foul: <hi>nay, ſaid the Country man</hi> I
+will not fight, but if you have it, I'll go to law with you, if there
+be any law in <hi>England:</hi> Hind <hi>told him,</hi> that he cared more
+for the Lawyers, then the law it ſelf: and would be glad to
+meet them any where: your money, your money, <hi>ſaid Hind,</hi> I
+do not uſe to ſtay ſo long for ſo <hi>little</hi> money: <hi>the Farmer pulls
+his purſe out, as if all the wealth of</hi>
+                  <note n="*" place="margin">There was but ten pound in the purſe.</note> Preſto John <hi>or of the</hi>
+Indies <hi>had laine in it: but</hi> Hind <hi>receiving the purſe made light
+of it, ſaying,</hi> this is an ill daies work, but I will make it bet<g ref="char:EOLhyphen"/>ter
+before night: <hi>If God ſend you good luck ſaid the Farmer,</hi>
+I hope you will give me my money again: <hi>yes, yes, ſaid</hi> Hind,
+<hi>and</hi> many thanks; <hi>then I ſuppoſe ſaid the Farmer</hi> you are no
+common thief, <hi>but one that will</hi> pay what you borrow: Hind
+<hi>asked him where he lived, that he might come and pay him:
+the Farmer told him, and ſo</hi> Hind <hi>parted from him: the Farmer
+went home thinking</hi> Hind <hi>would come and pay him his money
+again: ſhewing all his neighbours his new gold, and told
+one of his neighbours how he was ſerved: his neighbour ſaid,
+you may hang him if you will;</hi> No, no, ſaid the Farmer, I
+will not hang him becauſe he let me have his gold ſo wil<g ref="char:EOLhyphen"/>lingly.</p>
+            </div>
+            <div type="part">
+               <head>How he jeſted with a Butcher that was his friend.</head>
+               <p>HIND riding neer <hi>Chippingnorton,</hi> met with a friend and
+acquaintance of his; but <hi>Hind</hi> being in a diſguiſe of falſe
+<hi>hair</hi> and a falſe <hi>beard:</hi> would not make him acquainted who
+he was: but bid him <hi>ſtand and deliver ſuch money as he had,</hi>
+the Butcher ſaid, <hi>You come in an ill time, for I have newly
+paid away all my money; but I have ſix ſhilling left, if that
+will ſerve your turn you ſhall have it: Hind</hi> ſaid, <hi>any money:</hi>
+                  <pb n="22" facs="tcp:117343:17"/>
+for, I am like an <hi>Angler that muſt refuſe no bite:</hi> for I may
+as well <hi>catch a fry,</hi> as a <hi>great fiſh. Hind</hi> having his money rod
+a little way, and pulled of his diſguiſe and returned to his
+friend; and ſaid, <hi>how eaſie it is to deceive an honeſt man:
+Hind</hi> gives him his <hi>ſix ſhillings</hi> again; and gave him alſo a <hi>twen<g ref="char:EOLhyphen"/>ty
+ſhillings</hi> peece to buy him a <hi>pair of gloves:</hi> after a little diſ<g ref="char:EOLhyphen"/>courſe
+they parted.</p>
+            </div>
+            <div type="part">
+               <head>How Hind ſerved two Bailiffs and a <g ref="char:V">Ʋ</g>ſurer:</head>
+               <p>HIND riding through a little Town in <hi>Warwickshire,</hi>
+ſaw a tumult in the ſtreet; ſo he rid up to them, and de<g ref="char:EOLhyphen"/>ſired
+to know the occaſion; one told him that an <hi>honeſt Inn<g ref="char:EOLhyphen"/>keeper</hi>
+was arreſted for <hi>twenty pounds,</hi> and that the man <hi>was</hi>
+undone if he had not ſome relief ſpeedily; So <hi>Hind</hi> asked
+the man if he would give him any <hi>ſecurity,</hi> if he ſhould pay
+the <hi>money</hi> for him; the poor man being overjoyed for this un<g ref="char:EOLhyphen"/>look'd
+for news: told him he would make over all he had for
+the ſecurity; ſo <hi>Hind</hi> had the <hi>
+                     <g ref="char:V">Ʋ</g>ſurer</hi> and the <hi>Bayliffs</hi> into
+the houſe, <hi>Hind</hi> deſired the bond, paid the <hi>
+                     <g ref="char:V">Ʋ</g>ſurer</hi> all he
+demanded: giving the <hi>Bayliffs</hi> their <hi>Fees,</hi> and <hi>Cancelled</hi>
+the bond: <hi>Hind</hi> ſent for one to make over the Inkeepers
+goods to himſelf, which being done, they departed: <hi>Hind</hi>
+being not unmindful to enquire of the <hi>
+                     <g ref="char:V">Ʋ</g>ſurers</hi> way he was
+to go; went after him, and ſaid, friend, <hi>I lent you twenty
+pounds: but I muſt have it again;</hi> the Uſurer ſaid, <hi>you paid
+me ſo much money on a bond;</hi> Hind ſaid, <hi>it is no time to diſ<g ref="char:EOLhyphen"/>pute
+it now:</hi> ſo <hi>Hind</hi> took from the old Uſurer, his <hi>twenty
+pound,</hi> and <hi>twenty pound</hi> more which he had got by his Uſu<g ref="char:EOLhyphen"/>ry:
+ſo <hi>Hind</hi> rod back to the Inn, and gave the Hoſt his wri<g ref="char:EOLhyphen"/>ting
+again, and <hi>five pounds,</hi> and told him, <hi>that he had good
+luck by lending his money to honeſt men,</hi> the Uſurer came af<g ref="char:EOLhyphen"/>ter
+to the Inkeeper thinking to get ſome money of him: but
+the Inkeepeer fell up<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Uſurer and did beat him almoſt
+to death: ſaying, <hi>you rogue, I am ingaged in all that I have
+for the payment of the money, and if you be robbed, ſhall I pay
+you. I will,</hi> I <hi>will.</hi> ſo this was all the Uſurer got by <hi>Hind.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="23" facs="tcp:117343:17"/>
+               <head>How Hind fought with a Gentleman, and after gave him his mo<g ref="char:EOLhyphen"/>ney
+again.</head>
+               <p>
+                  <hi>HInd</hi> Prauncing the road in <hi>Yorkſhire,</hi> by chance overtook
+a <hi>Gentleman</hi> and his <hi>ſervant;</hi> which Gentleman was ri<g ref="char:EOLhyphen"/>ding
+to <hi>London</hi> to pay his Compoſition: This Gentleman had
+ſent moſt part of his mone<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to <hi>London</hi> by <hi>Bills of Exchange:</hi>
+yet his man was forced to carrie one <hi>hundred pounds</hi> behind
+him in a Port-mantle: <hi>Hind</hi> riding by, asked the Gentleman
+many odd queſtions, and among the reſt he ſaid, <hi>Sir, I am a
+Gentleman, and ſince I came from my houſe I have bin an</hi>
+                  <note n="*" place="margin">He ſaid true.</note> 
+                  <hi>ill
+husband: now I am in want, and ſhould deſire you to lend me
+ſome money:</hi> Sir, ſaid the Gentleman, <hi>you are but a ſtran<g ref="char:EOLhyphen"/>ger
+to me: and I have no reaſon to part with money to any upon
+ſo little acquaintance; but rather then you ſhould be diſgraced
+on the road, I ſhall lend you twenty ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llings:</hi> Sir, ſaid Hind, <hi>I
+thank you for your love; but</hi> I <hi>care not for ſuch ſmall ſums,
+when there is greater in the</hi>
+                  <note n="‖" place="margin">He points to the port-mantle.</note> 
+                  <hi>place:</hi> The Gentleman quickly
+underſtood his meaning; and ſaid, <hi>Sir, you muſt fight for
+it if you have it:</hi> with all <hi>my heart,</hi> ſaid <hi>Hind: and you ſhall
+not fight for nothing; for I will ſtake my horſe to one hundred
+pounds:</hi> and thus it ſhall be, <hi>whoſoever drawes the</hi> firſt blood,
+<hi>ſhall have all; and if you win my horſe, you ſhall give me; your
+mans to ride on; and if you loſe your money, I will give you ten
+pound out of it toward your Charges: to this the Gentleman a<g ref="char:EOLhyphen"/>grees:
+they ride out of the way about a flight ſhot,</hi> where <hi>Hind</hi>
+ties his horſe to a <hi>hedg,</hi> and the Gentleman gives his horſe to
+his <hi>man</hi> to hold: now they draw, and at the firſt paſs, <hi>Hind</hi> ran
+the Gentleman into the <hi>ſword-arm;</hi> the wound was but ſlight;
+yet being their Ingagement was ſuch, the Gentlemans man
+yeilded <hi>Hind</hi> the Victory; <hi>Hind</hi> receives the<note n="†" place="margin">He give him <hi>10l.</hi> back.</note> 
+                  <hi>hundred pound</hi>
+of the Gentleman: and ſo they mount their horſes: <hi>Hind</hi> be<g ref="char:EOLhyphen"/>ing
+of a Noble ſpirit, ſaid, <hi>Sir, we muſt not part thus, I will
+give you a very good dinner if you pleaſe to accept of it;</hi> the Gen<g ref="char:EOLhyphen"/>tleman
+thankt him, and rod with him; and as they were riding,
+<hi>Hind</hi> asked the Gentleman whether he was travelling; the
+Gentleman ſaid, to <hi>London;</hi> I am going to <hi>pay my Compoſiti<g ref="char:EOLhyphen"/>on;</hi>
+                  <pb n="24" facs="tcp:117343:18"/>
+                  <note n="*" place="margin">Smites his hand on his breſt.</note> I wiſh I had no occaſion there: Alas poor Gentleman ſaid
+<hi>Hind,</hi> you have <hi>ſorrow enough,</hi> and it hath been my <hi>ill fortune
+to augment it,</hi>
+                  <note n="†" place="margin">He gives the Gentle<g ref="char:EOLhyphen"/>mans ſer<g ref="char:EOLhyphen"/>vant the mony again</note> 
+                  <hi>ask now any thing that lies in my power,</hi> and
+you <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hall command it: Sir ſaid the Gentleman, <hi>I ſhall deſire
+nothing more then your</hi>
+                  <note n="*" place="margin">He did but Comple<g ref="char:EOLhyphen"/>ment to <hi>Hind.</hi>
+                  </note> 
+                  <hi>friendſhip, which I ſhall value above
+any earthly thing: I am beholding to you for your care of me:
+for if</hi> I <hi>had loſt this</hi> hundred pounds, I <hi>had been undon;</hi> being
+nigh the place, it broke off their diſcourſe. <hi>Hind</hi> be ſpeaks the
+beſt proviſion that can be got, and then ſends for a <hi>Chirurgi<g ref="char:EOLhyphen"/>on</hi>
+to dreſs the Gentleman; which being done, they fell to the
+victuals, and made themſelves merry with many odd jeſts;
+when they had repoſed themſelves a while, <hi>Hind</hi> paid the reck<g ref="char:EOLhyphen"/>oning
+privatly, and came in to the Gentleman, and ſaid, Sir,
+<hi>you are the firſt man that ever</hi> I <hi>hurt on the road, and</hi> I <hi>am hear<g ref="char:EOLhyphen"/>tily
+glad there was no more harm:</hi> ſo giving the Gentleman a
+<hi>word</hi> to paſs all <hi>highway-men,</hi> called for his horſe, and bid him
+farwell.</p>
+            </div>
+            <div type="part">
+               <head>How Hind was made a Captain at Colcheſter.</head>
+               <p>WHen the Riſing was in <hi>Kent</hi> and <hi>Eſſex, Hind</hi> was a<g ref="char:EOLhyphen"/>mong
+them: being belov'd of many <hi>wilde Gentlemen,</hi>
+who ſtill call'd him <hi>Captain</hi> at every word; <hi>Hind</hi> ſaid, Gentle<g ref="char:EOLhyphen"/>men,
+you <hi>call me Captain;</hi> but I will deſire you to call me <hi>ſo
+no more,</hi> till I am <hi>one,</hi> or may <hi>deſerve it:</hi> the Gentlemen ſaid,
+we wil ſpeak to Sir <hi>William Compton,</hi> who wants a Captain in
+his Regiment of foot: they all go to Sir <hi>William Compton,</hi> who
+knowing <hi>Hind,</hi> ſince he was wont to <hi>borrow his horſe,</hi> to do ma<g ref="char:EOLhyphen"/>ny
+mad pranks: forgave him all that was on the old ſcore, and
+began a new one with him, giving him a Commiſſion for to be
+a Captain; <hi>Hind</hi> being in Command, ſwagred at no ſmall
+rate, he ſtill having a minde to his old trade of <hi>taking,</hi> and uſes
+it for <hi>recreation</hi> ſometimes; but when the Lord General <hi>Fair<g ref="char:EOLhyphen"/>fax</hi>
+beſieged <hi>Colcheſter</hi> and took it, <hi>Hind</hi> was in a maze; but
+being then guided by his <hi>Art,</hi> eſcaped in <hi>Seamans</hi> apparel on
+foot: and afterward got himſelf a <hi>horſe</hi> by a very pretty Con<g ref="char:EOLhyphen"/>ceit,
+as in the next Chapter you ſhall hear.</p>
+            </div>
+            <div type="part">
+               <pb n="25" facs="tcp:117343:18"/>
+               <head>How Hind got a gallant horſe, having ſpoiled his own by an
+unfortunate leape.</head>
+               <p>HIND being a Gentlemans houſe, where he was wel en<g ref="char:EOLhyphen"/>tertained,
+after dinner he would ſhow them ſome ſport,
+with his horſe: thy young Gentlemen being deſirous to ſee
+it: got their horſes ſadled, and rid with him; he leaped ma<g ref="char:EOLhyphen"/>ny
+places, and ſhows them many fine tricks, but by chance, leap<g ref="char:EOLhyphen"/>ing
+over a gate that was very high, inſomuch, that the horſe
+ſtrained his back, that <hi>Hind</hi> durſt not ride him on a deſperate
+deſign: ſo taking his leave of the Gentlemen, he rod to <hi>Stur<g ref="char:EOLhyphen"/>bride</hi>
+fair, where he ſaw a <hi>Gallant Horſe,</hi> which was to be
+ſold: <hi>Hind</hi> being on his own horſe, asked what the price of
+that horſe was; the Horſecourſer that was to ſell him, ſaid,
+fourſcore pound is his price: <hi>Hind,</hi> ſaid, ride him along:
+the man <hi>rod him well; but</hi> Hind <hi>had a minde to uſe him better:</hi>
+and ſaid to the Horſecourſer; <hi>I prithee put my ſaddle on the
+horſe: that I may try him:</hi> He did ſo, and held <hi>Hinds</hi> horſe:
+which to ſight was as good as the other: <hi>Hind</hi> rid the horſe
+a little way and trotted him back, and asked the Horſecour<g ref="char:EOLhyphen"/>ſer,
+whether he he had a <hi>good Gallop;</hi> yes, Sir, ſaid he, <hi>Gal<g ref="char:EOLhyphen"/>lop
+him and try: Hind</hi> gallopt him <hi>ſo far,</hi> that he <hi>returned
+no more:</hi> leaving his horſe with the Horſecourſer, to make
+the beſt uſe of him: which once was <hi>better,</hi> but now may
+<hi>lye</hi> on his hands: <hi>Hind</hi> being well horſed, rod till he came
+to a place: where ſome of his Companions ſtayed for him:
+but when he come to the place, they were extream glad to ſee
+him ſo well mounted: they preſently asked him, how he came
+by this brave horſe, and what he gave for him: He anſwers
+them thus: <hi>Gentlemen, how long ſhall I tutor you; will you
+never underſtand this; to deceive the deceiver is no deceit?
+I had him of the Horſecourſer at an eaſie rate:</hi> whereat they
+fell a laughing at the conceit: and ſo mounting their horſes,
+away they ride together.</p>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:117343:19"/>
+               <head>How Hind robbed a Gentleman in Yorkſhire, and afterwards
+came to the Inn where he lay to ſup with h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, but did not.</head>
+               <p>A Gentleman coming from <hi>York,</hi> intended his journey
+for <hi>London,</hi> but by accident met with <hi>Hind;</hi> who ſoon
+made him deliver what money he had. <hi>Hind</hi> gives him back
+twenty ſhillings to bear his charges, till his credit would fur<g ref="char:EOLhyphen"/>niſh
+him again; ſo the Gentleman rode on his journey to the
+next Town, where he was well known by an Inkeeper; there
+being alighted from his horſe, deſires the Hoſt to get ſome<g ref="char:EOLhyphen"/>what
+ready for his ſupper, ſo the Gentleman went to his
+Chamber; in the mean time, in comes <hi>Hind,</hi> and askes, <hi>If
+there were any Gentlemen that went for</hi> London; the Hoſt
+anſwered, yes, <hi>There was one Gentleman alone, and he would
+he glad of any good Company.</hi> So <hi>Hind</hi> went up to the Gen<g ref="char:EOLhyphen"/>tleman's
+Chamber and ſaluted him: The Gentleman ſaid,
+Sir, <hi>ſit down, and</hi> I <hi>will tell you how</hi> I <hi>was robbed to day, and</hi>
+I <hi>durſt have ſworn you had been the man, but that your</hi>
+                  <note n="*" place="margin">He wares a Periwigs ſometimes.</note> 
+                  <hi>hair
+is ſhort, and his was long.</hi> Sir, ſaid Hind, <hi>do you know his
+horſe;</hi> yes <hi>very well,</hi> ſaid the Gentleman; <hi>To ſatisfie you,</hi>
+ſaid <hi>Hind, you ſhall ſee mine:</hi> So <hi>Hind</hi> went down and fetch'd
+his horſe out of the Stable, and asked the Gentleman, <hi>If that
+were the horſe;</hi> he anſwered, I, I, <hi>that's the horſe. Then,</hi>
+Sir, ſaid Hind, I <hi>cannot ſup with you to night, if you know
+my</hi> Horſe <hi>better then my ſelf.</hi> So he bids him good night.</p>
+            </div>
+            <div type="part">
+               <head>How ſome of Hind's Companions robbed a Gentleman: and,
+how Hind met him, and gave him mony to bear his char<g ref="char:EOLhyphen"/>ges,
+and afterward met him in London, and paid him the
+reſt.</head>
+               <p>HIND and his Gang, riding merrily along, met acceden<g ref="char:EOLhyphen"/>tally
+with one of <hi>Hind</hi>'s friends, who was very glad to
+ſee <hi>Hind,</hi> and to have ſome private diſcourſe with him: <hi>Hind</hi>
+deſired his Companions to ride before, and he would over<g ref="char:EOLhyphen"/>take
+them: <hi>Hind</hi> and his friend went to a houſe hard by that
+<pb n="27" facs="tcp:117343:19"/>
+place, where they might diſcloſe their mindes to each other;
+the whilſt his <hi>mad Gang</hi> rid on their journey: where in the
+way they met a young Gentleman; theſe lads bid him ſtand,
+and makes him deliver ſuch money as he had, leaving very lit<g ref="char:EOLhyphen"/>tle
+to bear his charges, and rod from him: the Gentleman
+kept on his way, and as he rod met with <hi>Hind,</hi> who bid him
+<hi>Stand, and deliver:</hi> the Gentleman ſaid, <hi>It was the laſt thing</hi>
+I <hi>did:</hi> for four Gentlemen in ſuch<note n="*" place="margin">He de<g ref="char:EOLhyphen"/>ſcribes their cloaths.</note> habits met me and took
+all my money from me: <hi>Hind</hi> knowing they were his Com<g ref="char:EOLhyphen"/>panions,
+ſaid, <hi>did they leave thee any money:</hi> very <hi>little,</hi> ſaid
+the Gentleman: Sir, ſaid Hind, I <hi>ſee you look but melancholly
+on the matter; deal ingeniouſly with me, and tell me how much
+they had from you:</hi> In troth, Sir, ſaid the Gentleman, it were
+a folly for me <hi>to bely my own purſe:</hi> they had about <hi>twelve
+pounds</hi> from me: <hi>Hind</hi> pulls our <hi>five peeces</hi> of <hi>gold,</hi> and gives
+it the Gentleman, ſaying, Sir, <hi>here is this in part, and when</hi>
+I <hi>meet you next,</hi> I <hi>will give you the reſt:</hi> the Gentleman gi<g ref="char:EOLhyphen"/>ving
+him many thanks, would have parted from him: <hi>Hind</hi>
+ſaid I have one thing more to ſay to you; <hi>here are many wags
+abroad, and they will have this money from you; therefore if
+you meet any; tell them</hi> the Fidler is paid, <hi>and they will let
+you paſs:</hi> ſo <hi>Hind</hi> bid him farewel; the Genteman had not
+rid far, but he met with ſome blades, who bid him ſtand;
+Gentlemen ſaid he the FIDLER <hi>is paid:</hi> they being ſa<g ref="char:EOLhyphen"/>tisfied
+with this anſwer; asked him which way the FID<g ref="char:EOLhyphen"/>LER
+went: he giving them the beſt direction he could, par<g ref="char:EOLhyphen"/>ted
+from them. <hi>Hind</hi> afterwards met this Gentleman in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi>
+and paid him the <hi>reſt of his money, and gave him a
+Dinner.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Hind ſerved a Committee man, who diſguiſed himſelf
+for fear of robbing.</head>
+               <p>A <hi>Committee man</hi> having occaſion to travel from <hi>War<g ref="char:EOLhyphen"/>wick</hi>
+towards <hi>London</hi> for to buy many commodities,
+hearing that there was robbing in that road, fitted himſelf
+with an old <hi>gary coat</hi> out at the elbowes, and an <hi>old mare,</hi> with
+<pb n="28" facs="tcp:117343:20"/>
+                  <hi>bootes</hi> inſteed of <hi>ſtirrups,</hi> hung at a <hi>Saddle,</hi> that was not
+worth three pence, and a <hi>bridle</hi> of the ſame price, now rides
+he merrily thinking no highway man would ſet on him, but
+<hi>money ill got will be ill ſpent;</hi> for he chanced to meet with
+<hi>Hind</hi> who asked what he was: he replyed, <hi>that he was an</hi>
+old man <hi>going to get relief among his friends: Hind</hi> gave him
+a peece in gold, and bid him <hi>drink his health, and be merry
+at his Inn:</hi> the old miſer thinking to pleaſe <hi>Hind,</hi> coyned
+two or three great oathes preſently and ſaid, <hi>he would be drunk
+with drinking his health,</hi> ſo <hi>Hind</hi> parted from him, and the
+old man went to his Inn, and ſet up his mare, then called for
+half a pint of Sack; and after the firſt glaſs was down, he be<g ref="char:EOLhyphen"/>gan
+to ſay, that he eſcaped the greateſt danger that ever he
+was in; for, ſaid he, I met with <hi>Hind;</hi> and <hi>inſteed of robbing
+me, he gave me a peece in gold; and bid me drink his</hi> health,
+<hi>but</hi> I'<hi>ll ſee him</hi> hanged <hi>before</hi> I'<hi>ll ſpend one penny for his ſake;
+hang him</hi> Rogue, <hi>he robs all</hi> honeſt men, <hi>onely</hi> Cavaliers,
+<hi>he lets them go:</hi> I'<hi>ll put his gold among my own:</hi> I <hi>would
+have given ten pound to have been rid of him when firſt</hi> I <hi>met
+him;</hi> ſo after a ſhort ſupper went to bed. <hi>Hind</hi> came to
+the Inn, uſing to lie there, as a traveller not known: the hoſt
+was telling him in what fear an old Committee man was to
+day, ſaying, he met with <hi>Hind,</hi> who gave him money to drink
+his health; but he ſaid he would ſee him hanged firſt, and
+called him rogue a thouſand times: <hi>Hind</hi> went to bed, and
+let the old man travel firſt in the morning, and about an hour
+after, <hi>Hind</hi> rides after him: when he had overtaken him:
+he asked the old man, <hi>if he drank his health;</hi> I, Sir, ſaid he,
+<hi>I was never ſo drunk in my life, as I was the laſt night; for</hi>
+I <hi>drank the Kings health, the Queens, the Princes, and your
+health ten times over.</hi> Hind ſaid unto him Friend, I <hi>have found
+you in many</hi> lies: <hi>and now</hi> I <hi>wil make you call me</hi> Rogue <hi>for ſom<g ref="char:EOLhyphen"/>thing:</hi>
+So <hi>Hind</hi> made him unty <hi>his greaſy</hi> ſnapſack, <hi>where
+he ſound fifty pound in gold, and his own peece beſides; now the
+Committee man to cheer up himſelf; reſolved to borrow ſo
+much money of the State before he went another journey.</hi> Hind
+ſaid, the ſooner you get it, the more money I ſhall have.</p>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:117343:20"/>
+               <head>How Hind borrowed money of a Tobacco-ſeller, who ſold his To<g ref="char:EOLhyphen"/>bacco
+at Fairs, and to great Inns, and afterward paid
+him.</head>
+               <p>HIND having ſome Companions with him more then he
+thought good, ſent ſome of them to ſeek their fortune by
+themſelves, he only reſerving two Gentlemen wherein he put
+great confidence; but money growing ſhort, he deſired them to
+accompany him, they being as willing to go, as he was to deſire
+them: as they were riding, <hi>Hind</hi> eſpies one riding between
+two Doſſers on a good horſe, ſays to his Companions, I believe
+that this fellow has money, tis but trying ſaid Hind<g ref="char:punc">▪</g> they pre<g ref="char:EOLhyphen"/>ſently
+ride to him, and being far from any houſe, they ask him
+for money, and tel him that money they will have: the fellow
+was amazed and could not tell what to anſwer: they preſently
+lead him out<note n="*" place="margin">They ſaw people a coming.</note> of the road, and puls him off his horſe, and riggs
+his doſſers, where they found nothing but Tobacco and pipes,
+and ſome <hi>aquavitae</hi> in a bottle: come, ſaid <hi>Hind,</hi> honeſt fellow
+will you give us a pipe of your <hi>Tobacco:</hi> yes, with all my heart
+ſaid he, and my<note n="†" place="margin">They drink his Water, and take ſome Tobacco.</note> 
+                  <hi>ſtrong water</hi> too: <hi>Hind</hi> ſays, <hi>honeſt friend,</hi> I
+<hi>have but little money, and if you will lend me but three or four
+pound,</hi> I <hi>will give you</hi>
+                  <note n="†" place="margin">
+                     <hi>HIND</hi> courts him with good words.</note> 
+                  <hi>five pound for it a week hence upon my
+reputation:</hi> Alas, Sir, ſaid the fellow, I have not much money,
+and that I have <hi>is my Maſters;</hi> but rather then you ſhould
+take it from me by force, I will<note n="*" place="margin">He was a cunning Knave.</note> lend you <hi>three pounds</hi> which
+I have <hi>hid about me:</hi> well ſaid <hi>Hind,</hi> it ſhall be ſufficient: the
+poor fellow puls off his hat, and in the <hi>crown</hi> thereof was his
+money: <hi>Hind</hi> and his Comrades fell a laughing at this conceit,
+and ſaid, <hi>we might have looked long enough in the Doſſers, and
+your money ſo ſafe:</hi> he delivers <hi>Hind 3. pound,</hi> ſaying, I <hi>hope you
+will be honeſt, and then you ſhall borrow another time: Hind</hi>
+thanks him, and appoints him <hi>a place</hi> to pay him. After ten
+days <hi>Hind</hi> ſent for this fellow to come to him, who preſently
+came: <hi>Hind</hi> gives him <hi>5l.</hi> and his belly full of ſack: Sir, ſaid the
+fellow, I <hi>will give you a pound of Spaniſh Tobaco</hi>
+                  <g ref="char:punc">▪</g> no do not go
+ſaid <hi>Hind:</hi> I live but hard by, at the <hi>Conſtables:</hi> ſaid Hind, I
+<pb n="30" facs="tcp:117343:21"/>
+                  <hi>never care to take any of their Tobacco:</hi> ſo calling for his horſe,
+<hi>rod away.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Hind robbed two Captains that had received money to pay
+their Troops, and after he had conveyed away the money,
+came back and robbed them of what money they had about
+them.</head>
+               <p>TWo Captains, whoſe Troops lay then in <hi>Eſſex,</hi> had been
+to fetch money for the payment of them a fortnights pay,
+having two Troopers and a ſpare horſe with them, whereon
+the Port-mantle lay which had the money<g ref="char:punc">▪</g> but they riding by
+<hi>Havaring</hi> Park, heard many Gentlemen hollow; ſo they loving
+the ſport, rid into the Park, and commanded the Troopers to
+ſtay till they came back: <hi>Hind,</hi> as his fortune was, came that
+way, and ſeeing a horſe with a Port-mantle, did gueſs it to be
+money by the cloſe lying of it<g ref="char:punc">▪</g> asked what they ſtayed for, they
+ſaid, for their Captains; as they were in diſcourſe, the <hi>Deer</hi> and
+<hi>Doggs</hi> ran by, which took the Troopers <hi>Eyes</hi> off their Charge:
+the while <hi>Hind</hi> with his <hi>Dagger</hi>-knife cuts the <hi>male-girts,</hi> and
+takes the <hi>Port-mantle</hi> and laies before him, and rides away; but
+when he was juſt ſetting ſpurs to his horſe<g ref="char:punc">▪</g> one of the Troo<g ref="char:EOLhyphen"/>pers
+cries out, <hi>The Port-mantle's gon, The Port-mantle's gon:</hi>
+The Captains being amazed at this newes, rod after <hi>Hind;</hi> but
+he had delivered up his Treaſure to<note n="*" place="margin">His Com<g ref="char:EOLhyphen"/>panions waited his coming.</note> thoſe that ſtood redy for
+it; and returned a little way, where he eſpies only the two
+Captains coming, who rod at him a tilt; but he knowing how
+to ſave one, ſhund their firſt incounter, and out-rid them again;
+the Captains followed him hard; at laſt he turned ſhort and
+came in the rear of one of them, and puld him by his long Belt,
+that he made him lie on the ground, and the fall ſo much a<g ref="char:EOLhyphen"/>mazed
+him, that he could not riſe to catch his horſe: <hi>Hind</hi> was
+preſently up with the other, and was ſo rough with him, that
+he cryed, <hi>Quarter: Hind</hi> feels his pocket, where was a very fine
+<hi>watch</hi> and ten pieces of <hi>gold: Hind</hi> cuts his bridle and girts,
+and turns his horſe going, and preſently went to the other, who
+as yet, was ſcarce in his ſenſes; yet delivers <hi>Hind</hi> ſuch money
+<pb n="31" facs="tcp:117343:21"/>
+as he had: the Troopers by this time were come up: but
+their horſes were ſo tyred that they, could gallop no longer:
+<hi>Hind</hi> flung them twenty ſhillings to drink, and bid them far<g ref="char:EOLhyphen"/>wel.</p>
+            </div>
+            <div type="part">
+               <head>How Hind neatly robbed a Parſon of forty pounds in gold, which
+he had hid in the Coller of his Doublet; after he was rob<g ref="char:EOLhyphen"/>bed
+of all his ſilver the day before.</head>
+               <p>A Parſon riding from <hi>Coventry</hi> towards <hi>London,</hi> by petty
+theeves was robbed of his <hi>Silver:</hi> but having forty pounds
+in <hi>gold</hi> about him reſolved to go on his journey: and as he
+rode, <hi>Hind</hi> overtook him, and asked the Parſon which way
+he travelled: the Parſon told him that he intended for <hi>Lon<g ref="char:EOLhyphen"/>don:</hi>
+but I was almoſt prevented, for to day I was robbed
+of <hi>five pounds in ſilver,</hi> and the knaves left me but <hi>five ſhillings.</hi>
+Sir, ſaid<note n="*" place="margin">He tels him a lie.</note> 
+                  <hi>Hind, I was robbed of a little ſilver to day alſo:</hi> for
+a man were as good let them have it quietly, as indanger ones
+life to reſiſt; but I was cunning enough to hide my gold in my
+<hi>boots,</hi> before I met them: nay, I believe, ſaid the Parſon,
+<hi>that mine is as ſafe; for I have quilted it in the Coller of my
+Dublet: Hind</hi> was not a little glad when he heard where his
+gold lay: but being neer their Inn, they ſupt together, and
+went to bed; in the morning the <hi>Parſon</hi> called<note n="*" place="margin">He had been better have let him ſleep.</note> 
+                  <hi>Hind</hi> up, and
+told him, he would be glad of his Company: after breakfaſt
+they rid together; <hi>Hind</hi> asked the Parſon <hi>if he could gueſs
+what trade he was;</hi> no ſaid the Parſon: then ſaid <hi>Hind, I am
+a Cutter: for</hi> I <hi>muſt cut the Coller of your Doublet off, before
+I ſhall come to your money:</hi> having ſo done, he left the Parſon
+forty pounds <hi>lighter, then he found him.</hi>
+               </p>
+               <pb n="32" facs="tcp:117343:22"/>
+               <p>
+                  <figure>
+                     <lg>
+                        <l>
+                           <hi>Stand</hi> and <hi>Deliver!</hi> Next in order comes;</l>
+                        <l>Quickly your <hi>Money?</hi> Make no ſtay at all?</l>
+                        <l>For my aim's <hi>High,</hi> and at thoſe <hi>Greater</hi> ſums,</l>
+                        <l>The <hi>Leſſer</hi> lead to <hi>Tyburn</hi>'s Funeral.</l>
+                        <l>Here's all the difference as 'tis manifeſt;</l>
+                        <l>I <hi>got</hi> their <hi>Money,</hi> They <hi>receiv'd</hi> a <hi>Jeſt.</hi>
+                        </l>
+                     </lg>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <head>How Hind robbed two Lawyers.</head>
+               <p>TWO Lawyers that had got money enough in their Cir<g ref="char:EOLhyphen"/>cuit,
+were reſolved to return to <hi>London:</hi> and now being
+<pb n="33" facs="tcp:117343:22"/>
+on their way, <hi>Hind</hi> overtakes them: and askes them which
+way they were travelling: they told him, to <hi>London:</hi> I go
+there too ſaid <hi>Hind:</hi> we three may make a fine Company, for
+we may travel as<note n="*" place="margin">He faigns himſelf a good huſ<g ref="char:EOLhyphen"/>band.</note> cheap as two; but as they were riding, the
+two Lawyers diſputed much on <hi>points</hi> of the <hi>Law: Hind</hi> be<g ref="char:EOLhyphen"/>ing
+almoſt <hi>dulled</hi> with their <hi>Diſcourſe,</hi> ſaid, Gentlemen, <hi>what
+point of the Law will you give for this;</hi> ſuppoſe I <hi>take both
+your monies from you, and give each of you a ſmall ring in
+lieu of it.</hi> One of the Lawyers ſaid, <hi>it doth weaken the Law
+much; but becauſe we are two, and you but one, we may hang
+you:</hi> ſaid Hind, <hi>In troth I will try the title:</hi> ſo having a <hi>Pi<g ref="char:EOLhyphen"/>ſtol</hi>
+ready; made them deliver their money, and gave each
+of them a <hi>ring,</hi> and bid them <hi>incite him if they would:</hi> they
+ſaid, <hi>to much purpoſe,</hi> and you'll <hi>never come: God be with
+you,</hi> ſaid he.</p>
+            </div>
+            <div type="part">
+               <head>How Hind overtook a Hop Merchant, being informed before
+that he had received money, and what hapned.</head>
+               <p>A Hope-Merchant having ſent many bags of hops to a
+fair in <hi>Oxford ſhire</hi> made a good market, and received
+much money there, came to an Inn where <hi>Hind</hi> by chance lay:
+the Merchant delivers his money to the Maſter of the houſe;
+and deſires him to lay it up till he had occaſion for it: the
+Chamberlain of the houſe being acquainted with <hi>Hind:</hi> told
+him, that there was a Merchant that had brought good ſtore
+of money into the Inn, and doth intend his journey for <hi>Lon<g ref="char:EOLhyphen"/>don:
+Hind</hi> hoping it would prove a booty for him: ſtaid till the
+Merchant was ready to take his journey: but it fell out other<g ref="char:EOLhyphen"/>wiſe,
+for the Merchant turned his money into ſuch vendable
+Commodities, as he thought moſt convenient: ſo he took
+with him ſome three pounds, his journey being not long:
+now he cauſes his horſe to be ſadled, and the Pillion for his
+wife to ride behind him, who was at her Fathers houſe not
+far from that place: <hi>Hind</hi> being gone before ſome three or
+four miles: ſtaid his coming: which was not long before
+<pb n="34" facs="tcp:117343:23"/>
+the Merchant and his wife came riding: <hi>Hind</hi> rid up to him,
+ſaying, Sir, <hi>I am informed you carry a good ſum of money with
+you, and I muſt have ſome.</hi> Sir, ſaid the Merchant, <hi>I confeſs
+I had ſo much money to day; but I have made a return of it to</hi>
+London: <hi>But if you pleaſe to accept of this, you ſhall have it:</hi>
+Sir, ſaid<note n="*" place="margin">Pulling out of his pocket a<g ref="char:EOLhyphen"/>bout ſixteen ſhillings.</note> 
+                  <hi>Hind:</hi> I ſhould diſgrace my ſelf, if I ſhould rob you
+of ſo little money: therefore if you will lend me five ſhillings
+of this mouey, I ſhall thank you: then giving the Merchant
+the reſt of the money: ſaid, Sir, <hi>I do but borrow this money
+of you: If you do but go to ſuch a place, near</hi> White-Fryers,
+<hi>and tell them, that</hi> James Hind <hi>ſent you, you ſhall have your
+money again.</hi> Sir, ſaid the Merchant, I live at the <hi>Anchor</hi>
+and <hi>Grown</hi> at <hi>Billingſ-gate:</hi> Sir, ſaid <hi>Hind,</hi> if you live there,
+I <hi>muſt eat no Oyſters at</hi> Billingſ-gate this year: So riding a
+croſs way bid him farewel.</p>
+            </div>
+            <div type="part">
+               <head>How Hind robbed a Gentleman in Hide-Park.</head>
+               <p>HIND being well horſed, went one Evening into <hi>Hide-Park</hi>
+to ſee ſome ſport; and riding up and down the
+Park by the Coaches, ſpies a bag of money by a Gentleman,
+to whom <hi>Hind</hi> uſed ſome diſcourſe about the race that was to
+be ran; but the race beginning, the Gentleman cauſed his
+Coach to ſtand ſtill, that he might judge which horſe ran beſt:
+<hi>Hind</hi>'s head being not idle, <hi>rod to the Coach, and took the bag
+in his hand, and rod away;</hi> the Gentleman preſently miſſing
+his money, cries out, <hi>ſtay him, ſtay him, I am robbed:</hi> many
+rod after him, eſpecially the Captain whom he rob'd at <hi>Chalk<g ref="char:EOLhyphen"/>hil,</hi>
+who purſued him hard. <hi>Hind</hi> riding by St. <hi>James</hi>'s,
+ſaid to the Souldiers, I have won the wager: but holding his
+bag faſt, his cloak fell off, which he left for them that came
+next: he riding the way by <hi>So-ho</hi> left them: but when he
+came to his companions, ſaid, he never earned a hundred
+pound ſo dear in his life.</p>
+            </div>
+            <div type="part">
+               <pb n="35" facs="tcp:117343:23"/>
+               <head>His voyage into Holland, and from thence to Ireland.</head>
+               <p>ABOUT a fortnight after he was purſued by Cap<g ref="char:EOLhyphen"/>tain
+<hi>Evans,</hi> and other Gentlemen neer <hi>Hide-Park:</hi>
+he thought it not ſafe to ſtay in <hi>England:</hi> ſhipt himſelf for
+<hi>Holland,</hi> and landed at the <hi>Hague:</hi> after he had been there
+three or four daies, he ſaw it no place for him: ſhipped him<g ref="char:EOLhyphen"/>ſelf
+in a veſſel that carried the <hi>Scotch King</hi>'s goods, and lan<g ref="char:EOLhyphen"/>ded
+in that veſſel at <hi>Galloway;</hi> when he had acquainted him<g ref="char:EOLhyphen"/>ſelf
+with ſome Engliſh Gentlemen, they adviſe him to go to
+<hi>Ormond:</hi> who hearing of his fame in <hi>England;</hi> entertained
+him very civilly, and made him <hi>Corporal</hi> to his <hi>Life-gaurd:</hi>
+being now in imployment, he got many <hi>mad-lads</hi> together and
+did many robberies with authority: but chiefly this of <hi>Caſtle-haven,</hi> whom he robbed of fiftteen hundred pounds, and deli<g ref="char:EOLhyphen"/>vered
+it to <hi>Ormond,</hi> who rewarded him and his Comrades well
+for their paines: he robbed many <hi>Iriſh</hi> Merchants, and other
+Gentlemen, with other things of great conſequence: after<g ref="char:EOLhyphen"/>ward
+he went to <hi>Youghall,</hi> where he merily ſpent his time,
+till Prince <hi>Rupert</hi> went thence: having money enough which
+he lightly got, furniſhed himſelf with many brave horſes,
+thinking to keep open trade; but it fortuned otherwiſe: the
+Gariſon being but ſlightly guarded, the inhabitants ſurpriſed
+it for the Parliament: <hi>Hind</hi> being in the tumult was ſorely
+wounded in both hands with <hi>Halberts:</hi> but getting into a
+veſſel that then went to <hi>Duncanon,</hi> ſtaid there till his wounds
+were cured: but the plague growing hot at <hi>Duncanon;</hi> he
+again imbarked himſelf for the Iſle of <hi>Scilly;</hi> where he did
+many tricks, ſtaying there eight moneths, came to the <hi>Iſle of
+Man,</hi> where he found ſome work to do, as ſhall be related to
+you in the Chapter following.</p>
+            </div>
+            <div type="part">
+               <head>How Hind lived in the Iſle of Man.</head>
+               <p>HIND came in a ſmal veſſel from <hi>Scilly</hi> to the <hi>Iſle of Man,</hi>
+were he preſented himſelf to the <hi>Earl</hi> of <hi>Darby:</hi> who
+<pb n="36" facs="tcp:117343:24"/>
+hearing of many of his merrypranks, made him welcom: al<g ref="char:EOLhyphen"/>lowing
+him a certain ſtipend weekly: the <hi>Earl</hi> often times
+would ſend for him, to hear ſome of his merry jeſts; and be<g ref="char:EOLhyphen"/>ing
+often in the <hi>Earls Company,</hi> grew much in his favour:
+and taking that for a cloak; did much view the Iſland to ſee
+if there were any hope to uſe his trade; he had not been there
+much above three weeks before he had robbed ſix or ſeven
+eminent men of that Iſle: this was novelties to that people,
+who before he came there, might have rid or gone round that
+Iſle, with a bag of money in one hand and a ſwitch in the o<g ref="char:EOLhyphen"/>ther
+without fear or danger of loſing it: this ſtrange re<g ref="char:EOLhyphen"/>port
+came to the <hi>Earls</hi> ear; who preſently ſent for <hi>Hind:</hi>
+In the mean time the <hi>Earl</hi> told Sir <hi>Philip Muſgrave,</hi> that he
+ſuſpected none but <hi>Hind</hi> to do the feat there: Sir <hi>Philip</hi> ſaid,
+my Lord there are many <hi>ſtrange Gentlemen</hi> in the Iſland, do
+not judge raiſhly of Captain <hi>Hind,</hi> he carries himſelf very
+civilly here; but I confeſs he is a likely man to do ſuch things.
+<hi>Hind</hi> in the interim came in, which broke off their diſcourſe;
+my <hi>Lord</hi> and Sir <hi>Philip<g ref="char:punc">▪</g>
+                  </hi> deſired him to deal ingeniouſly with
+them, and tell them the truth, whether he did thoſe robbe<g ref="char:EOLhyphen"/>ries
+or no: <hi>Hind</hi> being apt to bluſh, yet ſpoke ſmartly, <hi>I pro<g ref="char:EOLhyphen"/>teſt
+my Lord, your honors tell me news: If any of your Iſland
+can ſay, and ſwear I robbed them,</hi> I <hi>will ſuffer your law:</hi> the
+Earl ſaid, Captain <hi>Hind,</hi> you <hi>are the onely man ſuſpected;
+and the men who were robbed are now in the Caſtle,</hi> the Earl
+ſent for the Gentlemen, who came preſently: he asked them
+all, if they <hi>knew</hi> the man who robbed them; they ſaid, very
+well. The Earl ſaid, pointing to <hi>Hind, is he like this Gentle<g ref="char:EOLhyphen"/>man,</hi>
+they anſwered, <hi>no;</hi> for he had long <hi>black hair,</hi> and
+a <hi>great beard</hi> (this was a diſguiſe which he wore: but thoſe
+people did not uſe to ſee periwigs nor falſe beards) then the
+Earl ſaid to the Gentlemen that he would do his beſt endea<g ref="char:EOLhyphen"/>vour
+to find the man by laying wait at all Seaports, and cauſing
+ſearches to be made; ſo the Gentlemen departed; when they
+were gone, he ſaid to <hi>Hind,</hi> Sir, <hi>I am ſorry if</hi> I <hi>have accuſed
+you wrongfully: deal ingeniouſly with me, and</hi> I <hi>will give you
+a ſum of money, and give you under my hand not to do you the
+leaſt injury:</hi> which being done: <hi>Hind</hi> went to his <hi>loding,</hi>
+                  <pb n="37" facs="tcp:117343:24"/>
+and fetch the <hi>Periwig</hi> and <hi>falſe beard;</hi> whereat the <hi>Earl</hi> and
+Sir <hi>Philip</hi> fell into a <hi>great laughter:</hi> nay, ſaid <hi>Hind,</hi> let <hi>them
+laugh that win;</hi> ſo he laughed too.</p>
+            </div>
+            <div type="part">
+               <head>How Hind came to the Iſle of Man; and went thence into
+Scotland to the Scotch King to Sterling.</head>
+               <p>AFTER <hi>Hind</hi> had ſtaid in the <hi>Iſle of Man</hi> thirteen
+weeks; he began to be weary of the place, becauſe he
+had not room enough to range about; ſo he ſhipt himſelf for
+<hi>Scotland;</hi> when he was landed there, he went to the King at
+<hi>Sterling:</hi> the King being informed who he was, had ſome
+diſcourſe with him, and commended him to the Duke of <hi>Buc<g ref="char:EOLhyphen"/>kingham,</hi>
+then preſent; to ride in his troop, becauſe his <hi>life<g ref="char:EOLhyphen"/>guard</hi>
+was full: He came into <hi>England</hi> with the ſame troop;
+was in the engagement at <hi>Warrington,</hi> he continued ſtill in the
+ſame capacity, and came to the fight at <hi>Worceſter,</hi> and ſtaid
+till the <hi>King</hi> was <hi>fled:</hi> then every one ſhifted for themſelves:
+<hi>Hind</hi> being in the City ſaw the gates full of flying perſons:
+he leapt over the wall on foot by himſelf onely, travelled the
+Country and lay three daies under buſhes and hedges, be<g ref="char:EOLhyphen"/>cauſe
+of the Souldiery, afterwards came to Sir <hi>John Patking<g ref="char:EOLhyphen"/>tons</hi>
+woods, where he lay five dayes; and from thence came
+on foot to <hi>London,</hi> by the name of <hi>Brown,</hi> and lodged five
+weeks in <hi>London.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The true Relation of the taking of Captain James Hind in
+London.</head>
+               <p>Vpon the 9. of <hi>November</hi> 1651. a diſcovery was made of
+Captain <hi>Hind</hi>'s frequenting one <hi>Denzys,</hi> a Barber over
+againſt St. <hi>Dunſtans</hi> Church in <hi>Fleet-ſtreet;</hi> he having lodg<g ref="char:EOLhyphen"/>ed
+three weeks before by the name of <hi>Brown;</hi> this informa<g ref="char:EOLhyphen"/>tion
+was communicated to certain Gentlemen belonging to
+the right honorable Mr. <hi>Speaker,</hi> who with great care and
+<pb n="38" facs="tcp:117343:25"/>
+privacy, ſo ordered the buſineſs, that there was not the leaſt
+ſuſpition, until they came to the Chamber door, which they
+forced open, and immediately entered with their piſtols cockt,
+which attempt did not a little amaze <hi>Hind;</hi> being ſo ſuddenly
+awaked out of his ſleep, for not above an hour before he had
+betaken himſelf to reſt (being not very well) as he conceived
+in ſecurity, but it proved otherwiſe: for one, who had for<g ref="char:EOLhyphen"/>merly
+been in the Army, and of his intimate acquaintance,
+diſcovered him, and went along with the Guard that was ap<g ref="char:EOLhyphen"/>pointed
+to ſecure him, who no ſooner was apprehended, but
+immediately they haſted him to Mr. <hi>Speakers</hi> houſe, in <hi>Chan<g ref="char:EOLhyphen"/>cery-lane,</hi>
+where they ſecured him for that night.</p>
+               <p>The next day (being <hi>Monday)</hi> by order from the Right
+Honorable the <hi>Councel of State,</hi> the ſaid Captain <hi>Hind</hi> was
+brought to <hi>White-hall;</hi> where he was examined before a Com<g ref="char:EOLhyphen"/>mittee,
+and divers queſtions put to him, in relation to his late
+engagement with <hi>Charles Stuart;</hi> and whether he was the
+man that accompanied the <hi>Scotch King</hi> for the furtherance of
+his eſcape.</p>
+               <p>
+                  <hi>To which</hi> Hind <hi>anſwered,</hi> That he never ſaw the King, ſince
+the fight at <hi>Worceſter,</hi> neither did he know of his getting off
+the Field; but he was now glad to hear he had made ſo happy
+an eſcape.</p>
+               <p>After ſome time was ſpent in taking of his Examination, it
+was ordered that he ſhould be ſent priſoner to the <hi>Gate-houſe,</hi>
+till the further pleaſure of the <hi>Councel of State</hi> was
+known therein; which accordingly was done: the ſaid <hi>Hind</hi>
+was guarded with four Files of muſqueteers to the <hi>Gate-houſe,</hi>
+where he remained in ſafe Cuſtody <hi>that night.</hi>
+               </p>
+               <p>The next day being <hi>Tueſday,</hi> he was brought back from
+thence, (by ſpecial order from the Councel of Sate) to <hi>New-gate:</hi>
+and accordingly was brought in a Coach with iron bolts
+on his legs: Captain <hi>Compton</hi> and two other Meſſengers be<g ref="char:EOLhyphen"/>longing
+to the Councel to guard him: and about two of the
+clock in the afternoon they brought him to <hi>New-gate;</hi> where
+Captain <hi>Compton</hi> ſhewed the Maſter of the Priſon an Order
+from the Councel for his commitment, and alſo cloſe impriſon<g ref="char:EOLhyphen"/>ment,
+and to let no perſons whatſoever to have acceſs to him;
+<pb n="39" facs="tcp:117343:25"/>
+this order was accordingly obſerved: but during the time that
+the Hole was preparing for him, and the Souldiers which lay
+there removed to another place: divers perſons frequenting
+the place to ſee him, asked him many queſtions, to whom he
+returned very civil and mild anſwers: Among the reſt, a
+Gentleman born in the ſame Town, <hi>viz. Chippingnorton:</hi>
+who took acquaintance of him, and ſaluting him, ſaid; truly,
+<hi>Countryman, I am ſorry to ſee you here;</hi> he anſwered, that
+impriſonment was a comfort to him: in ſuffering for ſo good
+and juſt a cauſe, as adhering to the King. His Countryman
+ſaid, to morrow I ſhall return home; and if you have any
+thing to recommend to your wife, or friends, I will commu<g ref="char:EOLhyphen"/>nicate
+it: I thank you Sir, ſaid <hi>Hind;</hi> pray remember my love
+to them all, and ſatisfie them, that although I never ſee them
+more in this world, yet, in the world to come, I hope we ſhall
+meet in glory: then the Gentleman took a glaſs of bear and
+drank to him, which he pledged about half: and filling up his
+glaſs, ſaid, come taking the Gentleman by the hand, here is
+a health to my Maſter the King: and God bleſs and preſerve
+his Majeſty; but the Gentleman refuſing to drink the ſame
+upon ſuch an account: moved <hi>Hind</hi> to paſſion; who ſaid, the
+Devil take all Traytors; Had I a thouſand lives and at liber<g ref="char:EOLhyphen"/>ty
+I would adventure them all for King <hi>Charles:</hi> a pox take
+all turn coates: Forbear, Sir, ſaid the Keepers, and be not
+in Paſſion: not in the leaſt ſaid he, I am free from it.</p>
+            </div>
+            <div type="part">
+               <head>His Speech at New-gate.</head>
+               <head type="sub">His time being ſhort, ſpoke as followeth<g ref="char:punc">▪</g>
+               </head>
+               <opener>
+                  <salute>Well Gentlemen:</salute>
+               </opener>
+               <p>THIS is all I have to ſay to you before I go into the <hi>Dun<g ref="char:EOLhyphen"/>geon,</hi>
+for ſo may I term the place whereto I am going;
+I would have all men true to their Principles, and thoſe that
+have laid a foundation for their King, let them endeavour to
+raiſe it, and thoſe that are on the con<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rary Party, let them,
+endeavour to demoliſh it: As for my part I had not been here
+<pb n="40" facs="tcp:117343:26"/>
+now, if there had not been a <hi>Judas</hi> abroad; for indeed I was
+betrayed by one who formerly ſerved the King; but now he
+is for you: (which when he uttered, he pointed to a Cap<g ref="char:EOLhyphen"/>tain
+that was preſent) but God forgive him: the Keeper of
+the Priſon, called him from the fire ſide to the window, and
+looked upon the iron ſhakels that were about his legs, to
+ſee whether they were in order: well, ſaid Captain <hi>Hind,</hi> all
+this I vallew not three pence: I owe a debt to God; and a
+debt I muſt pay. Bleſſed be his name, that he hath kept me
+from ſhedding of blood unjuſtly; which is now a great com<g ref="char:EOLhyphen"/>fort
+to me, neither did I wrong any poor man of the worth
+of a penny; but I muſt confeſs, I have (when I have been
+neceſſitated thereto) made bold with a rich <hi>Bompkin,</hi> or a
+lying Lawyer, whoſe full fed fees from the rich Farmer, doth
+too too much impoveriſh the poor Cottage keeper: but tru<g ref="char:EOLhyphen"/>ly,
+I could wiſh, that thing were as little uſed in <hi>England</hi> a<g ref="char:EOLhyphen"/>mong
+Lawyers; as the eating of <hi>Swines-fleſh</hi> was among the
+Jews: the expreſſion cauſed much laughter; and many ſuch
+witty gingles he often put forth: another Gentleman ſtan<g ref="char:EOLhyphen"/>ding
+by: ſaid, I, Captain, <hi>you are not brought hither for rob<g ref="char:EOLhyphen"/>bing
+but for Treaſon:</hi> Treaſon, replyed <hi>Hind, I am not
+guilty in the leaſt;</hi> yes, Sir, <hi>but you are,</hi> for complying with
+<hi>Charles Stuart,</hi> and engaging againſt the Common-wealth
+of <hi>England:</hi> Alas, Sir, it ſeems, <hi>that is enough to hang me:</hi>
+I am afraid, <hi>you will finde it ſo,</hi> replyed the Gentleman: well,
+<hi>Gods will be done,</hi> ſaid <hi>Hind;</hi> I vallew it not three pence to
+loſe my life in ſo good a cauſe; and if it were to do again, I
+proteſt, I would do the like; laying his hand on his breſt:
+<hi>Come,</hi> ſaid the Keeper, <hi>no more of this diſcourſe; clear the
+Room:</hi> ſo he went with the Keeper to the place appointed for
+him.</p>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:117343:26"/>
+               <head>The humble Petition of James Hind, to the Right Ho<g ref="char:EOLhyphen"/>norable
+the Councel of State; and their proceedings
+thereupon.</head>
+               <opener>SHEWETH,</opener>
+               <p>THAT whereas your Petitioner (cloſe Priſoner in <hi>New-gate)</hi>
+is unfaignedly ſorrowful for all his late miſcarriages,
+whether teſtified again him, or acknowledged by him; and
+that upon earneſt ſeeking of God, and inquiring into his
+Will, your Petitioner is convinced of his former miſdemea<g ref="char:EOLhyphen"/>nours
+and actings; but yet remaineth under the heavy Yoak
+of Irons and Bondage.</p>
+               <p>
+                  <hi>May it therefore pleaſe this Honourable Councel to take
+theſe Premiſes into your gratious conſideration; and to
+vouchſafe your Chriſtian favour and clemency to your poor
+Supplicant, for the ſetting of him free from this intollera<g ref="char:EOLhyphen"/>ble
+Iron Yoak; for the granting of his friends acceſs unto
+him; and for the reducing of him from the bare boods, to a
+more Chriſtian-like Condition:</hi>
+               </p>
+               <p>And your Petitioner ſhall ever pray, <hi>&amp;c.</hi>
+               </p>
+               <pb n="42" facs="tcp:117343:27"/>
+               <figure>
+                  <lg>
+                     <l>Behold! at laſt, the ſaddeſt <hi>ſight</hi> of all;</l>
+                     <l>Poor <hi>Hind!</hi> Now in the <hi>Hole</hi> at <hi>Newgate lies:</hi>
+                     </l>
+                     <l>His <hi>Wife</hi> and <hi>Father,</hi> both lament his <hi>Thrall,</hi>
+                     </l>
+                     <l>And are much troubled at his <hi>Miſeries.</hi>
+                     </l>
+                     <l>His <hi>Book</hi> and <hi>Candle,</hi> his <hi>Companions</hi> be;</l>
+                     <l>Though now in <hi>Chains,</hi> he hopes for <hi>Libertie.</hi>
+                     </l>
+                  </lg>
+               </figure>
+            </div>
+            <div type="part">
+               <head>The diſcourſe between his Father, His Wife, and himfelf,
+in Newgate, the 28. of November.</head>
+               <p>HIND's <hi>Father</hi> hearing of his <hi>Sons</hi> misfortune, came to
+<hi>London;</hi> and brought his <hi>Sons Wife</hi> with him: but there
+<pb n="43" facs="tcp:117343:27"/>
+being ſuch ſtrict orders that none ſhould go to him, his <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi>
+and his <hi>Wife</hi> could not be admitted to ſee him: but
+lodging at one of the Keepers houſes, the next day was brougt
+to him: the good <hi>Old man</hi> with tears in his eyes began to be<g ref="char:EOLhyphen"/>hold
+his <hi>Son,</hi> who was kneeling at his <hi>Fathers</hi> feet; but was
+ſcarce able to riſe for the wait of Irons that was on his legs: but
+being helped by his <hi>Father,</hi> aroſe, and wen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to his <hi>Wife,</hi> who
+ſtood wringing her hands, to ſee her <hi>Husband</hi> in that miſery:
+She taking him about the neck,<note place="margin">The old man weeps.</note> wept to ſee him, kiſſing him
+a thouſand times; after they had diſcourſed a while: His <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi>
+ſpeaks as followeth.</p>
+               <p>
+                  <hi>Son,</hi> I hope it is not too late to give you counſel: but I wiſh
+to God you had taken my former counſel, and then I might
+not have come here to ſee you; you do not think how much
+it goes to my heart, and all your friends to think what will be<g ref="char:EOLhyphen"/>come
+of you.</p>
+               <p>
+                  <hi>Father,</hi> I hope the Lord will look upon a ſinner that tru<g ref="char:EOLhyphen"/>ly
+repents, and is ſorry from the bottom of his heart for his
+offences: and I make no doubt, but that the <hi>State,</hi> will have
+as much mercy on me, as ever the late King had on <hi>Clavil;</hi>
+who was far more in danger then I am now.</p>
+               <p>
+                  <hi>Son,</hi>
+                  <note place="margin">
+                     <hi>Clavil</hi> was a great ſcoller, and had many friends.</note> 
+                  <hi>Son,</hi> Be not too confident; for when a ſhip is caſt a<g ref="char:EOLhyphen"/>way
+by bulging on rocks that are neer the ſhore; thoſe that
+can ſwim may be ſaved, but thoſe that cannot muſt take their
+fortune.<note place="margin">Meaning his reviling ſpeaks in paſſion.</note> Even ſo it is with you: For friends that ſhould ſtir
+in your buſineſs, I have none; and that which ſhould do you
+moſt good, doth you the moſt injury: I ſhall deſire you up<g ref="char:EOLhyphen"/>on
+my bleſſing to bridle your ſpeech, and let not envy be in
+your heart to any one: let not this counſel be like water ſpilt
+upon the ground, but make uſe of it for the beſt.</p>
+               <p>
+                  <hi>Father,</hi> I ſhall by the help of God follow your advice:
+and I deſire the world not to look back on my actions; but for<g ref="char:EOLhyphen"/>ward,
+and they ſhall find me an altered man.</p>
+               <p>
+                  <hi>Huſband,</hi> I would once more you were at liberty, that I
+might ſee this change, which would make both ſoul and bo<g ref="char:EOLhyphen"/>dy
+happy.</p>
+               <p>The Keeper having occaſion to be gone, deſired them to
+depart for that time: ſo taking their leave of him, they went to
+their lodging.</p>
+            </div>
+            <div type="part">
+               <pb n="44" facs="tcp:117343:28"/>
+               <head>The Tryal of Captain James Hind, in the Old Bayley with
+his Examination, and Confeſſion.</head>
+               <p>
+                  <hi>ON</hi> Friday <hi>the 12. of</hi> December 1651: <hi>About two of
+the Clock in the afternoon, Captain</hi> James Hind <hi>was
+brought to the Bar, before the Honourable Court at the Seſſi<g ref="char:EOLhyphen"/>ons
+in the</hi> Old Bayly: <hi>being brought with four Keepers to
+the Bar: divers Queſtions were propoſed to him, which he
+very mildly anſwered: the Recorder asked him, what</hi> Coun<g ref="char:EOLhyphen"/>tryman
+he was, and where he was born: <hi>He replyed,</hi> at the
+merry Town of Chipping-Norton in Oxfordſhire: <hi>then it was
+demanded of him,</hi> whether he accompanied the <hi>Scotiſh King</hi>
+into <hi>England;</hi> and whether he was at the fight at <hi>Worceſter:
+He anſwered,</hi> that he came into <hi>England</hi> with his Majeſty the
+King; and that he was not onely at the fight at <hi>Worceſter,</hi>
+but at <hi>Warrington</hi> alſo, wiſhing that it had been his happy for<g ref="char:EOLhyphen"/>tune
+there to have ended his daies.</p>
+               <p>Then ſome farther queſtions were propoſed to him, in re<g ref="char:EOLhyphen"/>lation
+to his <hi>Mad Pranks:</hi> To which he anſwered, <hi>that what
+he confeſſed before the Councel of State, the like he acknow<g ref="char:EOLhyphen"/>ledged
+to that Honorable Court:</hi> proteſting his innocency in
+any matter of Fact or Crime, ſince the year 1649. within a<g ref="char:EOLhyphen"/>ny
+of the Parliaments Dominions. He ſtands indited upon
+high Treaſon, by the Councel of State, and thereupon the
+Court made no farther progreſs againſt him; by reaſon that
+no bill of inditement was brought in; ſo he was ordered to
+be remanded back to the place from whence he was brought:
+The time he was at the Bar, he deported himſelf with un<g ref="char:EOLhyphen"/>daunted
+courage, yet with a ſmiling Countenance: but be<g ref="char:EOLhyphen"/>fore
+his departure, this is obſervable; that as he paſſed from
+the Bar, caſting his head on one ſide, and looking as it were
+over the left ſhoulder: ſaid, <hi>theſe are filthy gingling ſpurs;</hi>
+(meaning his irons about his legs) <hi>but I hope to have them ex<g ref="char:EOLhyphen"/>changed
+ere long;</hi> which expreſſion cauſed much laughter. As
+he paſſed up the <hi>Old Bayley</hi> towards <hi>Newgate,</hi> divers people
+reſorted to ſee him; who asked if he had received ſentence:
+which words Captain <hi>Hind</hi> hearing, faced to the left, and
+<pb n="45" facs="tcp:117343:28"/>
+ſmiling, ſaid, <hi>no, no, good people, there is no haſt to hang
+true folk.</hi>
+               </p>
+               <p>BEING now come to <hi>Newgate,</hi> many Gentlemen were
+there to ſee him, and to ask him ſome queſtions: Cap<g ref="char:EOLhyphen"/>tain
+<hi>Hind</hi> having a little time now more then ordinary, before
+he went to his old lodging: ſaid, Gentlemen, <hi>what is your
+will with me, I know you long to hear news:</hi> they deſired to
+know how he came off at the Seſſions: he pulling a chair, ſaid,
+<hi>I ſtand but in little eaſe therefore I will firſt ſit down:</hi> then cal<g ref="char:EOLhyphen"/>ling
+for a glaſs of Sack drank to them all<g ref="char:punc">▪</g> ſaying, Gentlemen,
+<hi>I was ſomewhat dry with talking: therefore give me the other
+glaſs:</hi> having drank his Sack, ſaid, Gentlemen, <hi>It ſeems that
+to my enemies I have been civil;</hi> there being no bill found a<g ref="char:EOLhyphen"/>gainſt
+me, the Honorable Court onely asked my name, and
+ſome other queſtions; which I anſwered, not ſeeing any one
+that would accuſe me: neither could I ſpy, no, not ſo much,
+as the face of a Thief catcher; <hi>(who would if they knew how</hi>
+(not for their conſcience ſake; nor out of love to the Com<g ref="char:EOLhyphen"/>mon-wealth)
+<hi>Hang me)</hi> but for the lucre of the ten pounds
+which is the reward; which will make them ſwallow a falſe
+oath as eaſily, <hi>as one would do buttered fiſh:</hi> but I have no<g ref="char:EOLhyphen"/>thing
+to do with them, nor never had; ſo I leave them to fol<g ref="char:EOLhyphen"/>low
+the reſt of their Company, which aſſoon as they have op<g ref="char:EOLhyphen"/>pertunity,
+will let no time ſlip to help one another to the Gal<g ref="char:EOLhyphen"/>lowes.
+His Father and his Wife came into the Room, which
+broke of his diſcourſe: ſo for the preſent taking his leave of
+the Gentlemen, went with his Father into his own Room,
+where he lay; being by themſelves, his Father ſaid to him,
+Son; <hi>How much are you bound to God for your good fortune,
+you ſee many poor men here condemned, who have not been ſo
+noted as you have been, I make no doubt but God has a bleſſing
+in ſtore for you; and it is my deſire as a Father to ſee his child do
+well: So I hope thou will not forget my Councel, but daily medi<g ref="char:EOLhyphen"/>tate
+on things for thy Soul, and then thou ſhalt be happy.</hi>
+               </p>
+               <p>His Wiſe then rejoycing to ſee him take his impriſonment
+ſo patiently: ſaid <hi>Dear heart, I ſhall viſit you often, but it is
+<pb n="46" facs="tcp:117343:29"/>
+my grief that</hi> I <hi>come to a Priſon to you; but I hope you ſhall be
+releaſed of your miſery, and live once more with me:</hi> His Fa<g ref="char:EOLhyphen"/>ther
+ſaid, Son, <hi>my occaſion calls me home, and I ſhall do you
+little good in ſtaying here; I ſhall take my leave of you:</hi> now
+giving him his bleſſing, bids him <hi>fare-wel;</hi> wiſhing him to
+ſerve God, who would not caſt away a ſinner that doth truly
+repent: His Wife with tears in her eies gave him a parting Sa<g ref="char:EOLhyphen"/>lute;
+which made the ſtout Captain anſwer the ſame in the
+like nature; wiſhing he were at liberty to have gone with
+them: but he ſtill relying on the mercy of the Parliament;
+made no doubt, but to viſit his friends, before they came to
+viſit him again; but as yet he lies in <hi>Newgate</hi> in hopes of a
+Releaſe.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:117343:29"/>
+            <head>The Contents.</head>
+            <list>
+               <item>
+                  <hi>THE Prologue</hi> Page 1.</item>
+               <item>
+                  <hi>Hind</hi>'s Parentage, Education, and Father's Living at
+<hi>Chipping-Norton;</hi> and how he was bound an Apprentice <hi>p. 2:</hi>
+               </item>
+               <item>How <hi>Hind</hi> run from his Maſter <hi>ib.</hi>
+               </item>
+               <item>What befel him when he came to <hi>London p.</hi> 3.</item>
+               <item>How <hi>Allen</hi> inſtructs his new ſervant, and ſets him to rob a
+<hi>Gentleman p.</hi> 4.</item>
+               <item>How <hi>Hind</hi> ſold his Horſe to a <hi>Citizen</hi> of <hi>London p.</hi> 5.</item>
+               <item>
+                  <hi>Hind</hi>'s return home to <hi>Allen,</hi> and what hapned afterward <hi>p.</hi> 6.</item>
+               <item>How <hi>Hind</hi> parted from his Company, and appointed to meet
+them at a certain place; and how he robbed two Gentlemens
+ſervants; and cauſed a Parſon to be apprehended for a
+high-way-man, and eſcaped himſelf <hi>p.</hi> 7.</item>
+               <item>How <hi>Hind</hi> came to his Company ſhewing them the money; and
+what hapned to them at the ſame time <hi>p. 9:</hi>
+               </item>
+               <item>How <hi>Allen</hi> cauſed his men not to go to bed, but to ſit up and
+drink, fearing leaſt a plot ſhould be laid to take him: and
+how in the morning he would have robbed a <hi>Steward</hi> to a
+Noble man <hi>p.</hi> 10.</item>
+               <item>How <hi>Hind</hi> robbed a Gentleman on foot, and furniſhed himſelf
+with a horſe, money and cloaths <hi>p.</hi> 12.</item>
+               <item>How <hi>Hind</hi> after he had left his company, robbed a Doctor of
+Phiſick of forty pound in Gold <hi>ib.</hi>
+               </item>
+               <item>How <hi>Hind</hi> was betrayed by two whores, who ſent two high-way
+<pb facs="tcp:117343:30"/>
+men to take his money; and how he killed one of their horſes,
+and robbed the other of his money. <hi>p.</hi> 14.</item>
+               <item>How <hi>Hind</hi> was <hi>Inchanted</hi> by a <hi>cunning woman,</hi> who after ſome
+diſcourſe <hi>ſwitched</hi> him with a <hi>Charmed Rod,</hi> not to be ta<g ref="char:EOLhyphen"/>ken
+or harmed during the time this <hi>Charm</hi> ſhould laſt; which
+was for <hi>Three years p.</hi> 16.</item>
+               <item>How <hi>Hind</hi> robbed a Captain upon <hi>Chaulk</hi> hill in <hi>Buckingham</hi>-ſhire. <hi>p.</hi> 18.</item>
+               <item>How <hi>Hind</hi> robbed a Gentleman of one hundred and fifty pounds,
+near <hi>Nottingham p</hi> 19.</item>
+               <item>How <hi>Hind</hi> robbed a Farmer <hi>p.</hi> 20.</item>
+               <item>How he jeſted with a Butcher that was his friend <hi>p.</hi> 21.</item>
+               <item>How <hi>Hind</hi> ſerved two Bailiffs and a <g ref="char:V">Ʋ</g>ſurer <hi>p.</hi> 22.</item>
+               <item>How <hi>Hind</hi> fought with a Gentleman, and after gave him his
+money again <hi>p.</hi> 23,</item>
+               <item>How <hi>Hind</hi> was made a Captain at <hi>Colcheſter p.</hi> 24.</item>
+               <item>How <hi>Hind</hi> got a gallant horſe, having ſpoiled his own by an un<g ref="char:EOLhyphen"/>fortunate
+leap <hi>p.</hi> 25.</item>
+               <item>How <hi>Hind</hi> robbed a Gentleman in <hi>York-ſhire,</hi> and afterward<g ref="char:punc">▪</g>
+came to the Inn where he lay to ſup with him, but did not<g ref="char:punc">▪</g>
+                  <hi>p.</hi> 26.</item>
+               <item>How ſome of <hi>Hind</hi>'s Companions robbed a Gentleman; and
+how <hi>Hind</hi> met him, and gave him money to bear his char<g ref="char:EOLhyphen"/>ges,
+and afterward met him in <hi>London</hi> and paid him the
+reſt <hi>ib.</hi>
+               </item>
+               <item>How <hi>Hind</hi> ſerved a Committee man; who diſguiſed himſelf
+for fear of robbing <hi>p.</hi> 27.</item>
+               <item>How <hi>Hind</hi> borrowed money of a Tobaco-ſeller, who ſold his To<g ref="char:EOLhyphen"/>baco
+at Faires, and to great Inns, and afterwards paid
+him. <hi>p.</hi> 29.</item>
+               <item>How <hi>Hind</hi> robbed two Captains that had received money to pay
+their Troops, aad after he had conveyed away the money,
+came back and robbed them of what money they had about
+them <hi>p.</hi> 30.</item>
+               <item>How <hi>Hind</hi> neatly robbed a Parſon of forty pounds in gold, which
+he had hid in the <hi>Coller</hi> of his <hi>Doublet;</hi> after he was rob<g ref="char:EOLhyphen"/>bed
+of all his ſilver the day before <hi>p.</hi> 31.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
